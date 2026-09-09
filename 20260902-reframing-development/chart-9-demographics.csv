@@ -1,0 +1,100 @@
+year,panel,series,billions
+1950,aged,Aged 60 plus,0.2
+1960,aged,Aged 60 plus,0.23
+1970,aged,Aged 60 plus,0.29
+1980,aged,Aged 60 plus,0.38
+1990,aged,Aged 60 plus,0.48
+2000,aged,Aged 60 plus,0.61
+2010,aged,Aged 60 plus,0.77
+2020,aged,Aged 60 plus,1.05
+2030,aged,Aged 60 plus,1.4
+2040,aged,Aged 60 plus,1.78
+2050,aged,Aged 60 plus,2.1
+2060,aged,Aged 60 plus,2.38
+2070,aged,Aged 60 plus,2.59
+2080,aged,Aged 60 plus,2.79
+2090,aged,Aged 60 plus,2.9
+2100,aged,Aged 60 plus,3.0
+1950,aged,Aged 70 plus,0.08
+1960,aged,Aged 70 plus,0.1
+1970,aged,Aged 70 plus,0.13
+1980,aged,Aged 70 plus,0.16
+1990,aged,Aged 70 plus,0.21
+2000,aged,Aged 70 plus,0.27
+2010,aged,Aged 70 plus,0.35
+2020,aged,Aged 70 plus,0.47
+2030,aged,Aged 70 plus,0.67
+2040,aged,Aged 70 plus,0.93
+2050,aged,Aged 70 plus,1.18
+2060,aged,Aged 70 plus,1.39
+2070,aged,Aged 70 plus,1.55
+2080,aged,Aged 70 plus,1.69
+2090,aged,Aged 70 plus,1.82
+2100,aged,Aged 70 plus,1.89
+1950,aged,Aged 80 plus,0.02
+1960,aged,Aged 80 plus,0.03
+1970,aged,Aged 80 plus,0.04
+1980,aged,Aged 80 plus,0.05
+1990,aged,Aged 80 plus,0.07
+2000,aged,Aged 80 plus,0.09
+2010,aged,Aged 80 plus,0.13
+2020,aged,Aged 80 plus,0.16
+2030,aged,Aged 80 plus,0.23
+2040,aged,Aged 80 plus,0.34
+2050,aged,Aged 80 plus,0.46
+2060,aged,Aged 80 plus,0.58
+2070,aged,Aged 80 plus,0.7
+2080,aged,Aged 80 plus,0.77
+2090,aged,Aged 80 plus,0.88
+2100,aged,Aged 80 plus,0.94
+1950,under,Under 15,0.86
+1960,under,Under 15,1.15
+1970,under,Under 15,1.38
+1980,under,Under 15,1.56
+1990,under,Under 15,1.8
+2000,under,Under 15,1.86
+2010,under,Under 15,1.95
+2017,under,Under 15,2.01
+2020,under,Under 15,2.04
+2030,under,Under 15,1.93
+2040,under,Under 15,1.96
+2050,under,Under 15,1.93
+2060,under,Under 15,1.87
+2070,under,Under 15,1.8
+2080,under,Under 15,1.74
+2090,under,Under 15,1.7
+2100,under,Under 15,1.68
+1950,under,Under 25,1.32
+1960,under,Under 25,1.71
+1970,under,Under 25,2.08
+1980,under,Under 25,2.45
+1990,under,Under 25,2.78
+2000,under,Under 25,2.98
+2010,under,Under 25,3.18
+2017,under,Under 25,3.25
+2020,under,Under 25,3.28
+2030,under,Under 25,3.31
+2040,under,Under 25,3.25
+2050,under,Under 25,3.26
+2060,under,Under 25,3.2
+2070,under,Under 25,3.12
+2080,under,Under 25,3.03
+2090,under,Under 25,2.95
+2100,under,Under 25,2.87
+1950,under,Under 5,0.35
+1960,under,Under 5,0.48
+1970,under,Under 5,0.55
+1980,under,Under 5,0.58
+1990,under,Under 5,0.65
+2000,under,Under 5,0.63
+2010,under,Under 5,0.67
+2017,under,Under 5,0.7
+2020,under,Under 5,0.68
+2030,under,Under 5,0.67
+2040,under,Under 5,0.67
+2050,under,Under 5,0.66
+2060,under,Under 5,0.64
+2070,under,Under 5,0.62
+2080,under,Under 5,0.59
+2090,under,Under 5,0.57
+2100,under,Under 5,0.55

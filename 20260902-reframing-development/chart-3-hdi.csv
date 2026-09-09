@@ -1,0 +1,193 @@
+code,economy,income_group,hdi,population_m
+ISL,Iceland,H,0.972,0.386
+NOR,Norway,H,0.97,5.52
+CHE,Switzerland,H,0.97,8.889
+DNK,Denmark,H,0.962,5.947
+DEU,Germany,H,0.959,83.287
+SWE,Sweden,H,0.959,10.537
+AUS,Australia,H,0.958,26.66
+HKG,"Hong Kong, China (SAR)",H,0.955,7.536
+NLD,Netherlands,H,0.955,17.877
+BEL,Belgium,H,0.951,11.78
+IRL,Ireland,H,0.949,5.312
+FIN,Finland,H,0.948,5.584
+SGP,Singapore,H,0.946,5.918
+GBR,United Kingdom,H,0.946,68.526
+ARE,United Arab Emirates,H,0.94,10.484
+CAN,Canada,H,0.939,40.049
+LIE,Liechtenstein,H,0.938,0.04
+NZL,New Zealand,H,0.938,5.2
+USA,United States,H,0.938,336.755
+KOR,Korea (Republic of),H,0.937,51.713
+SVN,Slovenia,H,0.931,2.12
+AUT,Austria,H,0.93,9.132
+JPN,Japan,H,0.925,124.517
+MLT,Malta,H,0.924,0.553
+LUX,Luxembourg,H,0.922,0.666
+FRA,France,H,0.92,68.372
+ISR,Israel,H,0.919,9.849
+ESP,Spain,H,0.918,48.353
+CZE,Czechia,H,0.915,10.864
+ITA,Italy,H,0.915,58.984
+SMR,San Marino,H,0.915,0.034
+AND,Andorra,H,0.913,0.081
+CYP,Cyprus,H,0.913,1.345
+GRC,Greece,H,0.908,10.407
+POL,Poland,H,0.906,36.687
+EST,Estonia,H,0.905,1.37
+SAU,Saudi Arabia,H,0.9,33.703
+BHR,Bahrain,H,0.899,1.577
+LTU,Lithuania,H,0.895,2.872
+PRT,Portugal,H,0.89,10.578
+HRV,Croatia,H,0.889,3.86
+LVA,Latvia,H,0.889,1.884
+QAT,Qatar,H,0.886,2.656
+SVK,Slovakia,H,0.88,5.427
+CHL,Chile,H,0.878,19.659
+HUN,Hungary,H,0.87,9.592
+URY,Uruguay,H,0.862,3.388
+OMN,Oman,H,0.858,5.049
+KWT,Kuwait,H,0.852,4.853
+ATG,Antigua and Barbuda,H,0.851,0.093
+SYC,Seychelles,H,0.848,0.12
+BGR,Bulgaria,H,0.845,6.447
+ROU,Romania,H,0.845,19.061
+KNA,Saint Kitts and Nevis,H,0.84,0.047
+PAN,Panama,H,0.839,4.459
+BRN,Brunei Darussalam,H,0.837,0.459
+RUS,Russian Federation,H,0.832,143.826
+BHS,Bahamas,H,0.82,0.399
+BRB,Barbados,H,0.811,0.282
+TTO,Trinidad and Tobago,H,0.807,1.368
+PLW,Palau,H,0.786,0.018
+GUY,Guyana,H,0.776,0.826
+NRU,Nauru,H,0.703,0.012
+UGA,Uganda,L,0.582,48.657
+RWA,Rwanda,L,0.578,13.954
+TGO,Togo,L,0.571,8.224
+SYR,Syrian Arab Republic,L,0.564,23.595
+GMB,Gambia,L,0.524,2.698
+COD,Congo (Democratic Republic of the),L,0.522,105.79
+MWI,Malawi,L,0.517,21.104
+GNB,Guinea-Bissau,L,0.514,2.153
+SDN,Sudan,L,0.511,50.043
+LBR,Liberia,L,0.51,5.493
+ERI,Eritrea,L,0.503,3.47
+ETH,Ethiopia,L,0.497,128.692
+AFG,Afghanistan,L,0.496,41.455
+MOZ,Mozambique,L,0.493,33.635
+MDG,Madagascar,L,0.487,31.196
+YEM,Yemen,L,0.47,39.391
+SLE,Sierra Leone,L,0.467,8.461
+BFA,Burkina Faso,L,0.459,23.026
+BDI,Burundi,L,0.439,13.689
+MLI,Mali,L,0.419,23.769
+NER,Niger,L,0.419,26.16
+TCD,Chad,L,0.416,19.319
+CAF,Central African Republic,L,0.414,5.152
+SOM,Somalia,L,0.404,18.359
+SSD,South Sudan,L,0.388,11.483
+LKA,Sri Lanka,LM,0.776,22.037
+VNM,Viet Nam,LM,0.766,100.352
+EGY,Egypt,LM,0.754,114.536
+JOR,Jordan,LM,0.754,11.439
+LBN,Lebanon,LM,0.752,5.773
+TUN,Tunisia,LM,0.746,12.2
+UZB,Uzbekistan,LM,0.74,35.652
+BOL,Bolivia (Plurinational State of),LM,0.733,12.244
+KGZ,Kyrgyzstan,LM,0.72,7.1
+PHL,Philippines,LM,0.72,114.891
+MAR,Morocco,LM,0.71,37.713
+WSM,Samoa,LM,0.708,0.217
+NIC,Nicaragua,LM,0.706,6.824
+BTN,Bhutan,LM,0.698,0.786
+SWZ,Eswatini (Kingdom of),LM,0.695,1.231
+TJK,Tajikistan,LM,0.691,10.39
+BGD,Bangladesh,LM,0.685,171.467
+IND,India,LM,0.685,1438.07
+PSE,"Palestine, State of",LM,0.674,5.166
+CPV,Cabo Verde,LM,0.668,0.522
+COG,Congo,LM,0.649,6.183
+HND,Honduras,LM,0.645,10.645
+KIR,Kiribati,LM,0.644,0.133
+STP,Sao Tome and Principe,LM,0.637,0.231
+TLS,Timor-Leste,LM,0.634,1.384
+GHA,Ghana,LM,0.628,33.788
+KEN,Kenya,LM,0.628,55.339
+NPL,Nepal,LM,0.622,29.695
+VUT,Vanuatu,LM,0.621,0.32
+LAO,Lao People's Democratic Republic,LM,0.617,7.665
+AGO,Angola,LM,0.616,36.75
+FSM,Micronesia (Federated States of),LM,0.615,0.113
+MMR,Myanmar,LM,0.609,54.134
+KHM,Cambodia,LM,0.606,17.424
+COM,Comoros,LM,0.603,0.85
+ZWE,Zimbabwe,LM,0.598,16.341
+ZMB,Zambia,LM,0.595,20.724
+CMR,Cameroon,LM,0.588,28.373
+SLB,Solomon Islands,LM,0.584,0.8
+CIV,Côte d'Ivoire,LM,0.582,31.166
+PNG,Papua New Guinea,LM,0.576,10.39
+MRT,Mauritania,LM,0.563,5.022
+NGA,Nigeria,LM,0.56,227.883
+TZA,Tanzania (United Republic of),LM,0.555,66.618
+HTI,Haiti,LM,0.554,11.637
+LSO,Lesotho,LM,0.55,2.311
+PAK,Pakistan,LM,0.544,247.504
+SEN,Senegal,LM,0.53,18.078
+BEN,Benin,LM,0.515,14.111
+DJI,Djibouti,LM,0.513,1.153
+GIN,Guinea,LM,0.5,14.405
+ARG,Argentina,UM,0.865,45.538
+MNE,Montenegro,UM,0.862,0.624
+TUR,Türkiye,UM,0.853,85.326
+GEO,Georgia,UM,0.844,3.715
+KAZ,Kazakhstan,UM,0.837,20.33
+CRI,Costa Rica,UM,0.833,5.106
+SRB,Serbia,UM,0.833,6.623
+BLR,Belarus,UM,0.824,9.178
+MYS,Malaysia,UM,0.819,35.126
+MKD,North Macedonia,UM,0.815,1.828
+ARM,Armenia,UM,0.811,2.964
+ALB,Albania,UM,0.81,2.412
+MUS,Mauritius,UM,0.806,1.249
+BIH,Bosnia and Herzegovina,UM,0.804,3.185
+IRN,Iran (Islamic Republic of),UM,0.799,90.609
+VCT,Saint Vincent and the Grenadines,UM,0.798,0.101
+THA,Thailand,UM,0.798,71.702
+CHN,China,UM,0.797,1410.71
+PER,Peru,UM,0.794,33.846
+GRD,Grenada,UM,0.791,0.117
+AZE,Azerbaijan,UM,0.789,10.154
+MEX,Mexico,UM,0.789,129.74
+COL,Colombia,UM,0.788,52.321
+BRA,Brazil,UM,0.786,211.141
+MDA,Moldova (Republic of),UM,0.785,2.458
+UKR,Ukraine,UM,0.779,37.733
+ECU,Ecuador,UM,0.777,17.98
+DOM,Dominican Republic,UM,0.776,11.331
+TON,Tonga,UM,0.769,0.105
+MDV,Maldives,UM,0.766,0.526
+TKM,Turkmenistan,UM,0.764,7.364
+DZA,Algeria,UM,0.763,46.164
+CUB,Cuba,UM,0.762,11.02
+DMA,Dominica,UM,0.761,0.067
+PRY,Paraguay,UM,0.756,6.844
+LCA,Saint Lucia,UM,0.748,0.179
+MNG,Mongolia,UM,0.747,3.481
+ZAF,South Africa,UM,0.741,63.212
+GAB,Gabon,UM,0.733,2.485
+MHL,Marshall Islands,UM,0.733,0.039
+BWA,Botswana,UM,0.731,2.48
+FJI,Fiji,UM,0.731,0.924
+IDN,Indonesia,UM,0.728,281.19
+SUR,Suriname,UM,0.722,0.629
+BLZ,Belize,UM,0.721,0.411
+LBY,Libya,UM,0.721,7.306
+JAM,Jamaica,UM,0.72,2.84
+IRQ,Iraq,UM,0.695,45.074
+TUV,Tuvalu,UM,0.689,0.01
+SLV,El Salvador,UM,0.678,6.31
+GNQ,Equatorial Guinea,UM,0.674,1.848
+NAM,Namibia,UM,0.665,2.963
+GTM,Guatemala,UM,0.662,18.125
