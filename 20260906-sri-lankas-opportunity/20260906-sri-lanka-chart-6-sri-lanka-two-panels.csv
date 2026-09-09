@@ -1,0 +1,70 @@
+# chart,"Sri Lanka: GNI per capita extrapolated to 2050 on the median growth of two successive decades (current US$, Atlas)"
+# source,"World Bank OGHIST and World Development Indicators, July 2026 release: income classifications, official operational thresholds, and GNI per capita (Atlas method, current US$)."
+# vintage,"Frozen 1 July 2026. Values are embedded in the build script, not fetched; do not refresh against a live API."
+# method,"History (1990-2025) is the published GNI per capita series and is identical in both panels. From 2026 each panel compounds the 2025 actual at a single constant rate, the median of Sri Lanka annual growth in GNI per capita over the decade named in the panel: 0.0282 (2.8 percent) for Last decade, 2016 to 2025 and 0.1323 (13.2 percent) for Previous decade, 2006 to 2015. Thresholds through 2025 are the official operational values as published; beyond 2025 they rise at 0.01244 (1.244 percent) a year, the median annual increase of the past decade."
+# note,"This is not a forecast. Neither path makes any allowance for policy, demography, technology or shocks. The classification column is the group as published in OGHIST, which the World Bank assigns on the GNI estimate available at the time; later revisions can move the plotted line across a threshold without changing the classification, as they do in 2016, 2017 and 2019. Sri Lanka held upper-middle income for a single year, 2018, fell back to lower-middle in 2019, and regained upper-middle in 2025."
+# crossing,"Last decade, 2016 to 2025 does not reach the high-income threshold by 2050 (extending the same rate puts it at 2098). Previous decade, 2006 to 2015 crosses in 2036."
+# units,"GNI per capita and thresholds in current US$; classification in OGHIST codes L, LM, UM, H."
+
+year,period,gni_per_capita_usd,oghist_class,is_transition_year,threshold_basis,threshold_low_to_lm_usd,threshold_lm_to_um_usd,threshold_um_to_high_usd,path_last_decade_2016_2025_usd,path_previous_decade_2006_2015_usd
+1990,actual,490.0,L,no,official,610.0,2465.0,7620.0,490.00,490.00
+1991,actual,530.0,L,no,official,635.0,2555.0,7910.0,530.00,530.00
+1992,actual,580.0,L,no,official,675.0,2695.0,8355.0,580.00,580.00
+1993,actual,630.0,L,no,official,695.0,2785.0,8625.0,630.00,630.00
+1994,actual,670.0,L,no,official,725.0,2895.0,8955.0,670.00,670.00
+1995,actual,720.0,L,no,official,765.0,3035.0,9385.0,720.00,720.00
+1996,actual,760.0,L,no,official,785.0,3115.0,9645.0,760.00,760.00
+1997,actual,810.0,LM,yes,official,785.0,3125.0,9655.0,810.00,810.00
+1998,actual,810.0,LM,no,official,760.0,3030.0,9360.0,810.00,810.00
+1999,actual,830.0,LM,no,official,755.0,2995.0,9265.0,830.00,830.00
+2000,actual,860.0,LM,no,official,755.0,2995.0,9265.0,860.00,860.00
+2001,actual,810.0,LM,no,official,745.0,2975.0,9205.0,810.00,810.00
+2002,actual,820.0,LM,no,official,735.0,2935.0,9075.0,820.00,820.00
+2003,actual,910.0,LM,no,official,765.0,3035.0,9385.0,910.00,910.00
+2004,actual,1030.0,LM,no,official,825.0,3255.0,10065.0,1030.00,1030.00
+2005,actual,1170.0,LM,no,official,875.0,3465.0,10725.0,1170.00,1170.00
+2006,actual,1320.0,LM,no,official,905.0,3595.0,11115.0,1320.00,1320.00
+2007,actual,1500.0,LM,no,official,935.0,3705.0,11455.0,1500.00,1500.00
+2008,actual,1740.0,LM,no,official,975.0,3855.0,11905.0,1740.00,1740.00
+2009,actual,1950.0,LM,no,official,995.0,3945.0,12195.0,1950.00,1950.00
+2010,actual,2360.0,LM,no,official,1005.0,3975.0,12275.0,2360.00,2360.00
+2011,actual,2830.0,LM,no,official,1025.0,4035.0,12475.0,2830.00,2830.00
+2012,actual,3340.0,LM,no,official,1035.0,4085.0,12615.0,3340.00,3340.00
+2013,actual,3630.0,LM,no,official,1045.0,4125.0,12745.0,3630.00,3630.00
+2014,actual,3810.0,LM,no,official,1045.0,4125.0,12735.0,3810.00,3810.00
+2015,actual,3920.0,LM,no,official,1025.0,4035.0,12475.0,3920.00,3920.00
+2016,actual,4020.0,LM,no,official,1005.0,3955.0,12235.0,4020.00,4020.00
+2017,actual,4220.0,LM,no,official,995.0,3895.0,12055.0,4220.00,4220.00
+2018,actual,4350.0,UM,yes,official,1025.0,3995.0,12375.0,4350.00,4350.00
+2019,actual,4220.0,LM,yes,official,1035.0,4045.0,12535.0,4220.00,4220.00
+2020,actual,3880.0,LM,no,official,1045.0,4095.0,12695.0,3880.00,3880.00
+2021,actual,4010.0,LM,no,official,1085.0,4255.0,13205.0,4010.00,4010.00
+2022,actual,3620.0,LM,no,official,1135.0,4465.0,13845.0,3620.00,3620.00
+2023,actual,3550.0,LM,no,official,1145.0,4515.0,14005.0,3550.00,3550.00
+2024,actual,3870.0,LM,no,official,1135.0,4495.0,13935.0,3870.00,3870.00
+2025,actual,4670.0,UM,yes,official,1175.0,4635.0,14375.0,4670.00,4670.00
+2026,extrapolated,,,no,projected,1189.6,4692.7,14553.8,4801.50,5287.77
+2027,extrapolated,,,no,projected,1204.4,4751.0,14734.9,4936.70,5987.26
+2028,extrapolated,,,no,projected,1219.4,4810.1,14918.2,5075.71,6779.28
+2029,extrapolated,,,no,projected,1234.6,4870.0,15103.8,5218.63,7676.07
+2030,extrapolated,,,no,projected,1249.9,4930.6,15291.6,5365.57,8691.49
+2031,extrapolated,,,no,projected,1265.5,4991.9,15481.9,5516.66,9841.24
+2032,extrapolated,,,no,projected,1281.2,5054.0,15674.5,5671.99,11143.09
+2033,extrapolated,,,no,projected,1297.2,5116.9,15869.5,5831.71,12617.14
+2034,extrapolated,,,no,projected,1313.3,5180.5,16066.9,5995.91,14286.19
+2035,extrapolated,,,no,projected,1329.6,5245.0,16266.8,6164.75,16176.03
+2036,extrapolated,,,no,projected,1346.2,5310.2,16469.1,6338.33,18315.87
+2037,extrapolated,,,no,projected,1362.9,5376.3,16674.0,6516.81,20738.77
+2038,extrapolated,,,no,projected,1379.9,5443.2,16881.4,6700.31,23482.19
+2039,extrapolated,,,no,projected,1397.0,5510.9,17091.4,6888.97,26588.52
+2040,extrapolated,,,no,projected,1414.4,5579.4,17304.0,7082.95,30105.76
+2041,extrapolated,,,no,projected,1432.0,5648.8,17519.3,7282.40,34088.29
+2042,extrapolated,,,no,projected,1449.8,5719.1,17737.2,7487.45,38597.63
+2043,extrapolated,,,no,projected,1467.9,5790.2,17957.9,7698.28,43703.50
+2044,extrapolated,,,no,projected,1486.1,5862.3,18181.3,7915.05,49484.79
+2045,extrapolated,,,no,projected,1504.6,5935.2,18407.5,8137.92,56030.85
+2046,extrapolated,,,no,projected,1523.3,6009.0,18636.4,8367.07,63442.86
+2047,extrapolated,,,no,projected,1542.3,6083.8,18868.3,8602.67,71835.36
+2048,extrapolated,,,no,projected,1561.5,6159.5,19103.0,8844.90,81338.05
+2049,extrapolated,,,no,projected,1580.9,6236.1,19340.6,9093.96,92097.81
+2050,extrapolated,,,no,projected,1600.6,6313.7,19581.2,9350.03,104280.91

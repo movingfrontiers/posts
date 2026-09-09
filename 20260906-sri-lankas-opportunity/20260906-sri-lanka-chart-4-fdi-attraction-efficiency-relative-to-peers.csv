@@ -1,0 +1,28 @@
+panel,iso3,country,technical_efficiency,rank_of_124,structural_distance_from_lka
+structural peers,CRI,Costa Rica,0.629,11,1.02
+structural peers,DOM,Dominican Rep.,0.602,17,0.8
+structural peers,PER,Peru,0.545,32,0.79
+structural peers,GHA,Ghana,0.538,34,0.89
+structural peers,SEN,Senegal,0.461,55,1.09
+structural peers,GTM,Guatemala,0.426,65,0.95
+structural peers,PHL,Philippines,0.389,75,1.07
+structural peers,CIV,Côte d'Ivoire,0.29,90,0.93
+structural peers,PRY,Paraguay,0.287,93,0.94
+structural peers,SLV,El Salvador,0.279,96,0.95
+structural peers,BOL,Bolivia,0.25,100,0.58
+structural peers,LKA,Sri Lanka,0.237,103,0.0
+structural peers,KEN,Kenya,0.216,110,0.88
+structural peers,ECU,Ecuador,0.168,118,0.39
+regional comparators,KHM,Cambodia,0.651,9,2.24
+regional comparators,CHN,China,0.524,40,2.6
+regional comparators,IDN,Indonesia,0.474,52,1.47
+regional comparators,IND,India,0.427,64,2.0
+regional comparators,VNM,Vietnam,0.41,69,2.57
+regional comparators,PHL,Philippines,0.389,75,1.07
+regional comparators,MYS,Malaysia,0.305,88,3.49
+regional comparators,THA,Thailand,0.288,92,2.3
+regional comparators,BGD,Bangladesh,0.249,101,1.44
+regional comparators,LKA,Sri Lanka,0.237,103,0.0
+regional comparators,PAK,Pakistan,0.228,106,1.6
+regional comparators,KOR,"Korea, Rep.",0.196,113,3.16
+regional comparators,NPL,Nepal,0.095,124,1.66

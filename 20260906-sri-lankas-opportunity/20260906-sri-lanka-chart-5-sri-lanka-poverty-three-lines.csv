@@ -1,0 +1,19 @@
+# chart,"Sri Lanka: poverty headcount at the global poverty lines, chained across MPO vintages to 2021 PPP, 2017 to 2028"
+# source,"World Bank, Macro Poverty Outlook for Sri Lanka, April 2020 through April 2026 editions, poverty headcount rows; author's calculations."
+# method,"Each year is taken from the most recent edition reporting it in an unflagged column (neither e nor f); 2025 to 2028 exist only flagged and come from April 2026. Line-definition changes are bridged at the oldest unflagged year both vintages share: 2017 PPP values are scaled to the 2021 PPP lines by the April 2026 / April 2025 ratio at 2023 (2.000, 1.018, 1.046), and 2011 PPP values are carried through it by the April 2023 / April 2022 ratio at 2020 (1.333, 1.085, 1.180), rounded to one decimal."
+# note,"published_* columns are the values exactly as printed at that edition's own line set; the *_eq columns are the chained 2021 PPP equivalents that the chart plots. Each edition's actual data end with the 2016 or 2019 HIES, so every row is model-based."
+# rates are percent of population
+
+year,source_edition,line_set,column_flag,published_low,published_mid,published_high,poverty_rate_300eq_percent,poverty_rate_420eq_percent,poverty_rate_830eq_percent
+2017,April 2020,2011 PPP,none,0.7,9.5,39.0,1.9,10.5,48.1
+2018,April 2021,2011 PPP,none,0.7,9.6,39.5,1.9,10.6,48.7
+2019,April 2022,2011 PPP,none,0.7,9.5,39.3,1.9,10.5,48.5
+2020,April 2023,2017 PPP,none,1.6,12.7,49.9,3.2,12.9,52.2
+2021,April 2024,2017 PPP,none,1.5,13.1,51.2,3.0,13.3,53.5
+2022,April 2025,2017 PPP,none,4.1,22.7,64.4,8.2,23.1,67.3
+2023,April 2026,2021 PPP,none,10.8,27.6,71.1,10.8,27.6,71.1
+2024,April 2026,2021 PPP,none,9.3,25.0,69.3,9.3,25.0,69.3
+2025,April 2026,2021 PPP,e,7.9,22.1,66.7,7.9,22.1,66.7
+2026,April 2026,2021 PPP,f,6.9,20.1,65.4,6.9,20.1,65.4
+2027,April 2026,2021 PPP,f,6.5,19.5,64.5,6.5,19.5,64.5
+2028,April 2026,2021 PPP,f,6.2,18.9,63.4,6.2,18.9,63.4
