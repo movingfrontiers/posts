@@ -1,0 +1,8 @@
+smoothing,line_L_LM,line_LM_UM,line_UM_H,label_fits,poorer,richer
+"Gaussian, bandwidth 0.05",3.88,9.13,26.93,0.6079,0.2211,0.1711
+"Gaussian, bandwidth 0.10",3.86,9.15,26.9,0.6087,0.2202,0.1711
+"Gaussian, bandwidth 0.15",3.83,9.18,26.88,0.6096,0.2193,0.1711
+"Gaussian, bandwidth 0.20 (baseline)",3.8,9.21,26.86,0.6104,0.2186,0.171
+"Gaussian, bandwidth 0.30",3.75,9.31,26.8,0.6119,0.2177,0.1704
+"Gaussian, bandwidth 0.40",3.7,9.4,26.72,0.6131,0.2172,0.1698
+"Epanechnikov, same variance as 0.20",3.79,9.22,26.87,0.6108,0.2183,0.171

@@ -1,0 +1,5 @@
+year,fixed_2025_lines,lines_re_estimated_each_year,pooled_lines,year_line_L_LM,year_line_LM_UM,year_line_UM_H
+1990,0.6947,0.7292,0.6969,4.16,10.47,19.18
+2010,0.4782,0.5229,0.4871,3.15,6.59,20.57
+2025,0.6104,0.6104,0.5937,3.8,9.21,26.86
+2026 (nowcast),0.5427,0.5683,0.5352,3.9,9.22,18.76

@@ -1,0 +1,219 @@
+,economy,un_region,un_subregion,group,survey,pop_m,std_L,std_LM,std_UM,std_H,median_usd_day
+BDI,Burundi,Africa,Eastern Africa,L,c,14.39,0.8308,0.1485,0.0195,0.0012,2.0528
+COM,Comoros,Africa,Eastern Africa,LM,c,0.8828,0.1258,0.6125,0.251,0.0107,6.5471
+DJI,Djibouti,Africa,Eastern Africa,LM,c,1.1841,0.2776,0.4861,0.2139,0.0224,5.7406
+ERI,Eritrea,Africa,Eastern Africa,L,n,3.607,0.3633,0.4673,0.1544,0.015,4.7871
+ETH,Ethiopia,Africa,Eastern Africa,L,c,135.472,0.4691,0.4607,0.0686,0.0016,3.9599
+KEN,Kenya,Africa,Eastern Africa,LM,c,57.5325,0.5779,0.3329,0.0853,0.0039,3.3737
+MDG,Madagascar,Africa,Eastern Africa,L,c,32.7407,0.7908,0.1802,0.0278,0.0011,2.3153
+MWI,Malawi,Africa,Eastern Africa,L,c,22.2161,0.8494,0.1302,0.0191,0.0012,1.8791
+MUS,Mauritius,Africa,Eastern Africa,UM,c,1.2434,0.0134,0.2019,0.6305,0.1543,14.298
+MOZ,Mozambique,Africa,Eastern Africa,L,c,35.6317,0.872,0.0953,0.029,0.0036,1.4889
+RWA,Rwanda,Africa,Eastern Africa,L,c,14.5693,0.5251,0.3831,0.0797,0.0121,3.6653
+SYC,Seychelles,Africa,Eastern Africa,H,i,0.1236,0.01,0.0875,0.5412,0.3614,21.742
+SOM,"Somalia, Fed. Rep.",Africa,Eastern Africa,L,n,19.6547,0.7529,0.2111,0.0332,0.0028,2.4131
+SSD,South Sudan,Africa,Eastern Africa,L,c,12.1888,0.915,0.0764,0.0078,0.0008,1.2598
+TZA,Tanzania,Africa,Eastern Africa,LM,c,70.5459,0.6051,0.3132,0.0739,0.0078,3.2212
+UGA,Uganda,Africa,Eastern Africa,L,c,51.3849,0.6817,0.2574,0.0567,0.0042,2.7833
+ZMB,Zambia,Africa,Eastern Africa,LM,c,21.9139,0.7747,0.1725,0.0493,0.0035,1.7559
+ZWE,Zimbabwe,Africa,Eastern Africa,LM,c,16.9508,0.5769,0.2942,0.1089,0.02,3.2295
+AGO,Angola,Africa,Middle Africa,LM,c,39.04,0.5292,0.33,0.1261,0.0147,3.5614
+CMR,Cameroon,Africa,Middle Africa,LM,c,29.8793,0.361,0.4109,0.2093,0.0189,5.0909
+CAF,Central African Republic,Africa,Middle Africa,L,c,5.5133,0.8101,0.1586,0.03,0.0014,1.9001
+TCD,Chad,Africa,Middle Africa,L,c,21.0037,0.5413,0.3744,0.0807,0.0036,3.6341
+COG,"Congo, Rep.",Africa,Middle Africa,LM,c,6.4844,0.6234,0.2915,0.0739,0.0112,2.9274
+COD,DR Congo,Africa,Middle Africa,L,c,112.8325,0.883,0.0956,0.0194,0.002,1.4961
+GNQ,Equatorial Guinea,Africa,Middle Africa,UM,c,1.9384,0.1962,0.4769,0.298,0.0289,6.736
+GAB,Gabon,Africa,Middle Africa,UM,c,2.5931,0.0801,0.3587,0.4764,0.0848,10.238
+STP,São Tomé and Príncipe,Africa,Middle Africa,LM,c,0.2403,0.2375,0.5161,0.2164,0.0301,5.9843
+DZA,Algeria,Africa,Northern Africa,UM,c,47.4353,0.0005,0.4015,0.5618,0.0362,10.3149
+EGY,Egypt,Africa,Northern Africa,LM,c,118.366,0.0365,0.6119,0.3341,0.0175,7.8652
+LBY,Libya,Africa,Northern Africa,UM,n,7.4586,0.0394,0.3062,0.575,0.0795,11.4957
+MAR,Morocco,Africa,Northern Africa,LM,c,38.4308,0.0547,0.4177,0.4455,0.0821,9.6055
+SDN,Sudan,Africa,Northern Africa,L,c,51.6621,0.5721,0.3741,0.05,0.0039,3.4198
+TUN,Tunisia,Africa,Northern Africa,LM,c,12.3486,0.0149,0.2336,0.6436,0.1078,13.3896
+BWA,Botswana,Africa,Southern Africa,UM,c,2.5621,0.2865,0.3575,0.2613,0.0947,6.2769
+SWZ,Eswatini,Africa,Southern Africa,LM,c,1.2562,0.5106,0.2855,0.1635,0.0404,3.7021
+LSO,Lesotho,Africa,Southern Africa,LM,c,2.3633,0.5498,0.3386,0.1051,0.0065,3.3509
+NAM,Namibia,Africa,Southern Africa,LM,c,3.0928,0.3065,0.3327,0.2531,0.1078,6.3181
+ZAF,South Africa,Africa,Southern Africa,UM,c,64.7473,0.2629,0.3728,0.2568,0.1075,6.5223
+BEN,Benin,Africa,Western Africa,LM,c,14.8145,0.3633,0.5065,0.1242,0.006,4.6056
+BFA,Burkina Faso,Africa,Western Africa,L,c,24.0746,0.5625,0.3584,0.0731,0.006,3.4833
+CPV,Cabo Verde,Africa,Western Africa,UM,c,0.5273,0.1452,0.4383,0.3509,0.0656,7.8525
+CIV,Côte d'Ivoire,Africa,Western Africa,LM,c,32.7115,0.2931,0.5263,0.1696,0.011,5.1628
+GMB,"Gambia, The",Africa,Western Africa,L,c,2.8221,0.2802,0.5018,0.2023,0.0157,5.3966
+GHA,Ghana,Africa,Western Africa,LM,c,35.0643,0.437,0.4068,0.1448,0.0115,4.2825
+GIN,Guinea,Africa,Western Africa,LM,c,15.0997,0.156,0.6002,0.2395,0.0043,6.4197
+GNB,Guinea-Bissau,Africa,Western Africa,L,c,2.2495,0.5241,0.4014,0.0729,0.0016,3.6741
+LBR,Liberia,Africa,Western Africa,L,c,5.7312,0.4714,0.4363,0.0895,0.0027,3.9305
+MLI,Mali,Africa,Western Africa,L,c,25.1988,0.4986,0.4011,0.0956,0.0047,3.818
+MRT,Mauritania,Africa,Western Africa,LM,c,5.3151,0.1698,0.5638,0.2566,0.0098,6.4431
+NER,Niger,Africa,Western Africa,L,c,27.9178,0.7103,0.2521,0.0352,0.0024,2.8892
+NGA,Nigeria,Africa,Western Africa,LM,c,237.5278,0.5593,0.3859,0.0534,0.0015,3.4834
+SEN,Senegal,Africa,Western Africa,LM,c,18.932,0.269,0.5383,0.1784,0.0142,5.3572
+SLE,Sierra Leone,Africa,Western Africa,L,c,8.8198,0.5205,0.3959,0.0768,0.0067,3.6967
+TGO,Togo,Africa,Western Africa,LM,c,9.7216,0.435,0.4401,0.1168,0.0081,4.1893
+ATG,Antigua and Barbuda,Americas,Caribbean,H,n,0.0942,0.0289,0.1225,0.4567,0.3919,21.6159
+ABW,Aruba,Americas,Caribbean,H,n,0.108,0.0124,0.0575,0.3252,0.6049,33.1626
+BHS,"Bahamas, The",Americas,Caribbean,H,n,0.403,0.0175,0.079,0.3852,0.5182,27.8472
+BRB,Barbados,Americas,Caribbean,H,c,0.2826,0.0221,0.1548,0.6305,0.1926,16.3228
+BMU,Bermuda,Americas,Caribbean,H,n,0.0646,0.0004,0.0031,0.0693,0.9271,64.6509
+VGB,British Virgin Islands,Americas,Caribbean,H,n,0.0397,0.0187,0.0825,0.39,0.5088,27.3348
+CYM,Cayman Islands,Americas,Caribbean,H,n,0.0758,0.003,0.0146,0.1157,0.8667,68.2194
+CUB,Cuba,Americas,Caribbean,UM,n,10.9372,0.0351,0.1422,0.4716,0.3511,19.7844
+CUW,Curaçao,Americas,Caribbean,H,n,0.156,0.0101,0.0468,0.2841,0.6589,37.2845
+DMA,Dominica,Americas,Caribbean,UM,n,0.0659,0.1012,0.3016,0.4516,0.1456,11.1949
+DOM,Dominican Republic,Americas,Caribbean,UM,i,11.5205,0.0157,0.1475,0.5606,0.2762,17.8463
+GRD,Grenada,Americas,Caribbean,UM,c,0.1173,0.0128,0.1979,0.5498,0.2396,14.6804
+HTI,Haiti,Americas,Caribbean,LM,c,11.9061,0.6217,0.3166,0.0571,0.0045,3.0699
+JAM,Jamaica,Americas,Caribbean,UM,c,2.8371,0.026,0.2157,0.5358,0.2225,15.3625
+PRI,Puerto Rico (U.S.),Americas,Caribbean,H,n,3.191,0.0077,0.0366,0.2432,0.7125,42.08
+SXM,Sint Maarten (Dutch part),Americas,Caribbean,H,n,0.0439,0.011,0.0506,0.2984,0.6401,35.778
+KNA,St. Kitts and Nevis,Americas,Caribbean,H,n,0.0469,0.0318,0.1328,0.4669,0.3685,20.5761
+LCA,St. Lucia,Americas,Caribbean,UM,c,0.1801,0.0011,0.0756,0.4377,0.4856,25.7579
+MAF,St. Martin (French part),Americas,Caribbean,H,n,0.0249,0.0075,0.0353,0.2343,0.7229,43.3022
+VCT,St. Vincent and the Grenadines,Americas,Caribbean,UM,n,0.0999,0.0902,0.2825,0.4652,0.1622,11.921
+TTO,Trinidad and Tobago,Americas,Caribbean,H,i,1.3714,0.0003,0.0701,0.3785,0.551,29.4796
+TCA,Turks and Caicos Islands,Americas,Caribbean,H,n,0.0469,0.007,0.0329,0.2227,0.7374,44.9138
+VIR,Virgin Islands (U.S.),Americas,Caribbean,H,n,0.1035,0.0075,0.0352,0.234,0.7233,43.3384
+BLZ,Belize,Americas,Central America,UM,c,0.4229,0.0212,0.1857,0.5524,0.2408,16.0836
+CRI,Costa Rica,Americas,Central America,H,i,5.153,0.0126,0.1095,0.4457,0.4322,23.3877
+SLV,El Salvador,Americas,Central America,UM,i,6.3655,0.0635,0.2651,0.5308,0.1406,12.447
+GTM,Guatemala,Americas,Central America,UM,i,18.6879,0.1347,0.3607,0.4047,0.0999,9.3029
+HND,Honduras,Americas,Central America,LM,i,11.0058,0.2029,0.3365,0.3731,0.0875,8.5203
+MEX,Mexico,Americas,Central America,UM,i,131.9469,0.0311,0.2275,0.5477,0.1937,14.3157
+NIC,Nicaragua,Americas,Central America,LM,i,7.0075,0.0832,0.3625,0.4526,0.1017,10.34
+PAN,Panama,Americas,Central America,H,i,4.5712,0.0537,0.1682,0.4251,0.353,19.072
+CAN,Canada,Americas,Northern America,H,i,41.6348,0.0028,0.0043,0.0647,0.9282,63.1782
+GRL,Greenland,Americas,Northern America,H,n,0.0569,0.0016,0.0219,0.3759,0.6006,30.6385
+USA,United States,Americas,Northern America,H,i,341.8079,0.0111,0.0081,0.0813,0.8994,73.2346
+ARG,Argentina,Americas,South America,UM,i,45.8514,0.0177,0.1544,0.4823,0.3456,19.7912
+BOL,Bolivia,Americas,South America,LM,i,12.5818,0.0368,0.1714,0.5446,0.2472,16.7031
+BRA,Brazil,Americas,South America,UM,i,212.8124,0.0491,0.1844,0.4745,0.2921,17.2554
+CHL,Chile,Americas,South America,H,i,19.8599,0.0058,0.0518,0.484,0.4585,25.0357
+COL,Colombia,Americas,South America,UM,i,53.4256,0.1219,0.287,0.4006,0.1905,11.473
+ECU,Ecuador,Americas,South America,UM,i,18.2899,0.0737,0.2743,0.4688,0.1832,12.7165
+GUY,Guyana,Americas,South America,H,i,0.836,0.0264,0.0129,0.0795,0.8813,75.4712
+PRY,Paraguay,Americas,South America,UM,i,7.0131,0.0328,0.2034,0.5447,0.2191,15.3923
+PER,Peru,Americas,South America,UM,i,34.5767,0.082,0.326,0.4936,0.0984,10.8718
+SUR,Suriname,Americas,South America,UM,c,0.6398,0.0335,0.1995,0.58,0.1869,14.7777
+URY,Uruguay,Americas,South America,H,i,3.3847,0.0035,0.0677,0.4139,0.5148,27.5499
+VEN,Venezuela,Americas,South America,LM,i,28.5169,0.0638,0.2238,0.4883,0.2241,14.4734
+KAZ,Kazakhstan,Asia,Central Asia,UM,c,20.8438,0.001,0.1349,0.7442,0.1199,13.8984
+KGZ,Kyrgyzstan,Asia,Central Asia,LM,c,7.3307,0.0642,0.6322,0.2951,0.0085,7.1328
+TJK,Tajikistan,Asia,Central Asia,LM,c,10.7867,0.1204,0.4744,0.3782,0.0271,7.9202
+TKM,Turkmenistan,Asia,Central Asia,UM,c,7.6188,0.0464,0.3539,0.48,0.1198,10.8758
+UZB,Uzbekistan,Asia,Central Asia,LM,i,37.0534,0.0346,0.1218,0.64,0.2036,16.5391
+CHN,China,Asia,Eastern Asia,UM,c,1405.7699,0.0004,0.1957,0.6113,0.1926,15.4739
+HKG,"Hong Kong SAR, China",Asia,Eastern Asia,H,n,7.522,0.0004,0.0019,0.0441,0.9536,76.5604
+JPN,Japan,Asia,Eastern Asia,H,i,123.2063,0.0135,0.0196,0.1601,0.8067,45.6472
+PRK,"Korea, DPR",Asia,Eastern Asia,L,n,26.571,0.1077,0.5031,0.3612,0.0279,7.8846
+KOR,"Korea, Rep.",Asia,Eastern Asia,H,i,51.6555,0.001,0.0039,0.0958,0.8992,58.9632
+MAC,"Macao SAR, China",Asia,Eastern Asia,H,n,0.6777,0.0002,0.0006,0.015,0.9841,112.1139
+MNG,Mongolia,Asia,Eastern Asia,UM,c,3.5667,0.0063,0.2042,0.6597,0.1298,14.1875
+TWN,"Taiwan, China",Asia,Eastern Asia,H,i,23.3074,0.0004,0.0021,0.0884,0.9091,52.0923
+BRN,Brunei Darussalam,Asia,South-eastern Asia,H,n,0.4663,0.0005,0.0049,0.1005,0.8941,56.2612
+KHM,Cambodia,Asia,South-eastern Asia,LM,n,17.848,0.1421,0.5389,0.2981,0.0209,7.084
+IDN,Indonesia,Asia,South-eastern Asia,UM,c,285.7213,0.1155,0.5998,0.2604,0.0243,6.6561
+LAO,Lao PDR,Asia,South-eastern Asia,LM,c,7.873,0.1581,0.5928,0.2312,0.0178,6.265
+MYS,Malaysia,Asia,South-eastern Asia,UM,i,35.9778,0.0004,0.0232,0.3453,0.6311,34.4578
+MMR,Myanmar,Asia,South-eastern Asia,LM,c,54.8507,0.2959,0.5839,0.1152,0.005,4.8871
+PHL,Philippines,Asia,South-eastern Asia,UM,c,116.787,0.1964,0.5626,0.2241,0.0169,6.0357
+SGP,Singapore,Asia,South-eastern Asia,H,n,6.0724,0.0002,0.0003,0.0093,0.9901,132.6062
+THA,Thailand,Asia,South-eastern Asia,UM,c,71.6199,0.001,0.1559,0.6433,0.1998,15.9279
+TLS,Timor-Leste,Asia,South-eastern Asia,LM,c,1.4185,0.6824,0.2927,0.0238,0.0011,3.0449
+VNM,Viet Nam,Asia,South-eastern Asia,UM,c,101.5985,0.024,0.1881,0.6265,0.1615,14.9074
+AFG,Afghanistan,Asia,Southern Asia,L,n,43.8441,0.6295,0.3268,0.0415,0.0022,3.1622
+BGD,Bangladesh,Asia,Southern Asia,LM,c,175.6869,0.1158,0.6201,0.25,0.0141,6.5999
+BTN,Bhutan,Asia,Southern Asia,LM,c,0.7967,0.0011,0.0916,0.7047,0.2026,18.1082
+IND,India,Asia,Southern Asia,LM,c,1463.8655,0.104,0.717,0.1741,0.0049,6.1416
+IRN,Iran,Asia,Southern Asia,UM,c,92.4177,0.0542,0.37,0.5096,0.0663,10.2682
+MDV,Maldives,Asia,Southern Asia,UM,c,0.5297,0.0004,0.0716,0.6817,0.2463,18.6916
+NPL,Nepal,Asia,Southern Asia,LM,c,29.6181,0.0484,0.5142,0.4152,0.0222,8.5869
+PAK,Pakistan,Asia,Southern Asia,LM,c,255.2195,0.3997,0.5015,0.0918,0.007,4.3308
+LKA,Sri Lanka,Asia,Southern Asia,UM,c,22.0277,0.0857,0.527,0.3439,0.0434,7.7925
+ARM,Armenia,Asia,Western Asia,UM,c,3.0131,0.0296,0.5085,0.4405,0.0213,8.8487
+AZE,Azerbaijan,Asia,Western Asia,UM,c,10.264,0.0003,0.0279,0.8182,0.1536,16.6759
+BHR,Bahrain,Asia,Western Asia,H,n,1.6222,0.0006,0.0056,0.1135,0.8803,53.6318
+CYP,Cyprus,Asia,Western Asia,H,i,1.3708,0.0003,0.0011,0.0689,0.9297,54.5937
+GEO,Georgia,Asia,Western Asia,UM,c,3.6987,0.0708,0.4285,0.456,0.0447,9.2169
+IRQ,Iraq,Asia,Western Asia,UM,c,47.0208,0.0185,0.3777,0.5574,0.0465,10.4702
+ISR,Israel,Asia,Western Asia,H,i,10.1105,0.0076,0.0536,0.2937,0.6452,36.2326
+JOR,Jordan,Asia,Western Asia,UM,c,11.5207,0.0079,0.2581,0.6219,0.1121,12.6312
+KWT,Kuwait,Asia,Western Asia,H,n,4.979,0.0013,0.0133,0.2304,0.755,39.6708
+LBN,Lebanon,Asia,Western Asia,LM,c,5.8494,0.1356,0.4629,0.3794,0.0221,7.8851
+OMN,Oman,Asia,Western Asia,H,n,5.4947,0.0026,0.0297,0.3907,0.577,29.9122
+QAT,Qatar,Asia,Western Asia,H,i,2.9185,0.0001,0.0002,0.0848,0.9149,72.4278
+SAU,Saudi Arabia,Asia,Western Asia,H,n,35.917,0.0007,0.0064,0.1275,0.8655,51.1993
+SYR,Syria,Asia,Western Asia,L,c,25.6204,0.4231,0.5263,0.0506,0.0,4.1587
+TUR,Türkiye,Asia,Western Asia,UM,i,85.7293,0.0027,0.0453,0.3936,0.5583,29.7152
+ARE,United Arab Emirates,Asia,Western Asia,H,i,11.2435,0.0003,0.003,0.0322,0.9645,103.5145
+PSE,West Bank and Gaza,Asia,Western Asia,LM,c,5.3819,0.0785,0.3861,0.4741,0.0614,9.8026
+YEM,Yemen,Asia,Western Asia,L,c,41.7739,0.8284,0.1528,0.0173,0.0014,2.0487
+BLR,Belarus,Europe,Eastern Europe,UM,c,9.0746,0.0004,0.0143,0.651,0.3343,22.6017
+BGR,Bulgaria,Europe,Eastern Europe,H,i,6.3985,0.0116,0.0323,0.3022,0.6539,33.5829
+CZE,Czechia,Europe,Eastern Europe,H,i,10.7611,0.0004,0.0084,0.1607,0.8305,40.4262
+HUN,Hungary,Europe,Eastern Europe,H,i,9.5011,0.0104,0.0324,0.4568,0.5004,27.0862
+MDA,Moldova,Europe,Eastern Europe,UM,c,2.3651,0.0038,0.2177,0.7141,0.0644,12.5671
+POL,Poland,Europe,Eastern Europe,H,i,36.1224,0.0031,0.0082,0.1727,0.8161,41.5987
+ROU,Romania,Europe,Eastern Europe,H,i,18.948,0.0092,0.0447,0.3005,0.6456,32.0713
+RUS,Russia,Europe,Eastern Europe,H,i,142.7554,0.0013,0.0092,0.2962,0.6933,35.8444
+SVK,Slovakia,Europe,Eastern Europe,H,i,5.3842,0.0058,0.0466,0.5068,0.4408,25.2028
+UKR,Ukraine,Europe,Eastern Europe,UM,c,38.9804,0.0013,0.1518,0.7657,0.0812,13.9513
+CHI,Channel Islands,Europe,Northern Europe,H,n,0.1685,0.0024,0.0341,0.4752,0.4883,26.4574
+DNK,Denmark,Europe,Northern Europe,H,i,5.9961,0.0036,0.0024,0.0333,0.9607,63.2432
+EST,Estonia,Europe,Northern Europe,H,i,1.353,0.0044,0.0114,0.2386,0.7456,36.5873
+FRO,Faeroe Islands,Europe,Northern Europe,H,n,0.0553,0.0018,0.0253,0.4083,0.5646,29.2076
+FIN,Finland,Europe,Northern Europe,H,i,5.6196,0.0023,0.0024,0.0558,0.9395,56.5703
+ISL,Iceland,Europe,Northern Europe,H,i,0.3908,0.0013,0.0027,0.0345,0.9615,62.8371
+IRL,Ireland,Europe,Northern Europe,H,i,5.4462,0.001,0.0016,0.0657,0.9317,54.9456
+IMN,Isle of Man,Europe,Northern Europe,H,n,0.0841,0.0022,0.0307,0.4518,0.5153,27.3954
+LVA,Latvia,Europe,Northern Europe,H,i,1.845,0.0058,0.0288,0.3036,0.6618,33.664
+LTU,Lithuania,Europe,Northern Europe,H,i,2.8454,0.0117,0.0221,0.219,0.7473,39.469
+NOR,Norway,Europe,Northern Europe,H,i,5.6091,0.0019,0.0018,0.0225,0.9738,78.9845
+SWE,Sweden,Europe,Northern Europe,H,i,10.6117,0.0087,0.0071,0.0871,0.897,55.845
+GBR,United Kingdom,Europe,Northern Europe,H,i,69.607,0.0038,0.0054,0.0934,0.8974,56.4513
+ALB,Albania,Europe,Southern Europe,UM,c,2.3553,0.0045,0.1542,0.6858,0.1555,15.5355
+AND,Andorra,Europe,Southern Europe,H,n,0.0829,0.0004,0.0023,0.0676,0.9298,61.4048
+BIH,Bosnia and Herzegovina,Europe,Southern Europe,UM,c,3.1401,0.0034,0.1022,0.669,0.2254,17.9905
+HRV,Croatia,Europe,Southern Europe,H,i,3.8403,0.0047,0.0158,0.2103,0.7692,40.0816
+GIB,Gibraltar,Europe,Southern Europe,H,n,0.0401,0.0006,0.0069,0.1647,0.8278,44.5599
+GRC,Greece,Europe,Southern Europe,H,i,10.3635,0.007,0.0295,0.3782,0.5853,30.145
+ITA,Italy,Europe,Southern Europe,H,i,58.7285,0.0101,0.0123,0.151,0.8267,49.4596
+XKX,Kosovo,Europe,Southern Europe,UM,i,1.5847,0.0997,0.2211,0.5294,0.1498,13.1621
+MLT,Malta,Europe,Southern Europe,H,i,0.5737,0.0042,0.0068,0.073,0.916,58.9487
+MNE,Montenegro,Europe,Southern Europe,UM,i,0.614,0.023,0.0669,0.4708,0.4393,24.6286
+MKD,North Macedonia,Europe,Southern Europe,UM,i,1.815,0.0425,0.1313,0.5471,0.2791,19.0279
+PRT,Portugal,Europe,Southern Europe,H,i,10.6744,0.0059,0.0205,0.2896,0.684,34.4308
+SMR,San Marino,Europe,Southern Europe,H,n,0.034,0.0003,0.0009,0.0266,0.9722,83.8279
+SRB,Serbia,Europe,Southern Europe,UM,i,6.5365,0.015,0.0792,0.5253,0.3805,22.9647
+SVN,Slovenia,Europe,Southern Europe,H,i,2.1249,0.0003,0.001,0.0718,0.9269,50.3026
+ESP,Spain,Europe,Southern Europe,H,i,48.8113,0.009,0.016,0.1522,0.8228,49.2023
+AUT,Austria,Europe,Western Europe,H,i,9.1672,0.0058,0.005,0.0454,0.9438,70.6373
+BEL,Belgium,Europe,Western Europe,H,i,11.8755,0.0009,0.0017,0.0452,0.9521,63.5489
+FRA,France,Europe,Western Europe,H,i,68.6444,0.0011,0.0028,0.0943,0.9019,57.9667
+DEU,Germany,Europe,Western Europe,H,i,82.8209,0.008,0.0108,0.0758,0.9054,63.2256
+LIE,Liechtenstein,Europe,Western Europe,H,n,0.0407,0.0025,0.0353,0.4828,0.4794,26.1561
+LUX,Luxembourg,Europe,Western Europe,H,i,0.6841,0.0008,0.0018,0.0351,0.9623,87.6476
+MCO,Monaco,Europe,Western Europe,H,n,0.0383,0.0004,0.0028,0.0786,0.9182,58.5678
+NLD,Netherlands,Europe,Western Europe,H,i,18.0956,0.0011,0.0021,0.0306,0.9663,73.4128
+CHE,Switzerland,Europe,Western Europe,H,i,9.0451,0.0018,0.0013,0.0463,0.9506,72.9974
+AUS,Australia,Oceania,Australia and New Zealand,H,i,27.4463,0.0094,0.0051,0.0612,0.9243,63.843
+NZL,New Zealand,Oceania,Australia and New Zealand,H,n,5.3228,0.0009,0.009,0.1707,0.8193,45.3514
+FJI,Fiji,Oceania,Melanesia,UM,c,0.9332,0.0904,0.5468,0.3474,0.0154,7.6975
+NCL,New Caledonia,Oceania,Melanesia,H,n,0.2953,0.0022,0.025,0.3553,0.6176,31.6954
+PNG,Papua New Guinea,Oceania,Melanesia,LM,c,10.7628,0.5535,0.3572,0.0846,0.0047,3.4086
+SLB,Solomon Islands,Oceania,Melanesia,LM,c,0.8386,0.6369,0.3087,0.0513,0.0031,3.0763
+VUT,Vanuatu,Oceania,Melanesia,LM,c,0.3352,0.3567,0.5264,0.1138,0.0032,4.8078
+GUM,Guam,Oceania,Micronesia,H,n,0.169,0.0014,0.0165,0.2699,0.7122,36.7257
+KIR,Kiribati,Oceania,Micronesia,LM,c,0.1365,0.0264,0.5734,0.3922,0.0079,8.2979
+MHL,Marshall Islands,Oceania,Micronesia,UM,c,0.0363,0.0342,0.3078,0.552,0.106,11.6423
+FSM,"Micronesia, Fed. Sts.",Oceania,Micronesia,UM,c,0.1137,0.353,0.4519,0.1849,0.0102,4.8725
+NRU,Nauru,Oceania,Micronesia,H,c,0.012,0.1114,0.5318,0.3355,0.0214,7.2768
+MNP,Northern Mariana Islands,Oceania,Micronesia,H,n,0.0435,0.001,0.0097,0.1824,0.8069,44.0163
+PLW,Palau,Oceania,Micronesia,H,n,0.0177,0.0262,0.2312,0.6264,0.1162,13.2988
+ASM,American Samoa,Oceania,Polynesia,H,n,0.046,0.0023,0.0263,0.3662,0.6052,31.1322
+PYF,French Polynesia,Oceania,Polynesia,H,n,0.2825,0.0013,0.0141,0.2422,0.7424,38.7097
+WSM,Samoa,Oceania,Polynesia,UM,c,0.2193,0.0506,0.4058,0.4632,0.0803,9.8205
+TON,Tonga,Oceania,Polynesia,UM,c,0.1037,0.0091,0.2575,0.6741,0.0593,12.2272
+TUV,Tuvalu,Oceania,Polynesia,UM,c,0.0095,0.046,0.3747,0.4968,0.0825,10.522

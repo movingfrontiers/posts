@@ -1,0 +1,47 @@
+code,economy,un_region,un_subregion,group,survey,pop_m,std_L,std_LM,std_UM,std_H,median_usd_day
+ATG,Antigua and Barbuda,Americas,Caribbean,H,n,0.0942,0.0289,0.1225,0.4567,0.3919,21.6159
+ABW,Aruba,Americas,Caribbean,H,n,0.108,0.0124,0.0575,0.3252,0.6049,33.1626
+BHS,"Bahamas, The",Americas,Caribbean,H,n,0.403,0.0175,0.079,0.3852,0.5182,27.8472
+BRB,Barbados,Americas,Caribbean,H,c,0.2826,0.0221,0.1548,0.6305,0.1926,16.3228
+BMU,Bermuda,Americas,Caribbean,H,n,0.0646,0.0004,0.0031,0.0693,0.9271,64.6509
+VGB,British Virgin Islands,Americas,Caribbean,H,n,0.0397,0.0187,0.0825,0.39,0.5088,27.3348
+CYM,Cayman Islands,Americas,Caribbean,H,n,0.0758,0.003,0.0146,0.1157,0.8667,68.2194
+CUB,Cuba,Americas,Caribbean,UM,n,10.9372,0.0351,0.1422,0.4716,0.3511,19.7844
+CUW,Curaçao,Americas,Caribbean,H,n,0.156,0.0101,0.0468,0.2841,0.6589,37.2845
+DMA,Dominica,Americas,Caribbean,UM,n,0.0659,0.1012,0.3016,0.4516,0.1456,11.1949
+DOM,Dominican Republic,Americas,Caribbean,UM,i,11.5205,0.0157,0.1475,0.5606,0.2762,17.8463
+GRD,Grenada,Americas,Caribbean,UM,c,0.1173,0.0128,0.1979,0.5498,0.2396,14.6804
+HTI,Haiti,Americas,Caribbean,LM,c,11.9061,0.6217,0.3166,0.0571,0.0045,3.0699
+JAM,Jamaica,Americas,Caribbean,UM,c,2.8371,0.026,0.2157,0.5358,0.2225,15.3625
+PRI,Puerto Rico (U.S.),Americas,Caribbean,H,n,3.191,0.0077,0.0366,0.2432,0.7125,42.08
+SXM,Sint Maarten (Dutch part),Americas,Caribbean,H,n,0.0439,0.011,0.0506,0.2984,0.6401,35.778
+KNA,St. Kitts and Nevis,Americas,Caribbean,H,n,0.0469,0.0318,0.1328,0.4669,0.3685,20.5761
+LCA,St. Lucia,Americas,Caribbean,UM,c,0.1801,0.0011,0.0756,0.4377,0.4856,25.7579
+MAF,St. Martin (French part),Americas,Caribbean,H,n,0.0249,0.0075,0.0353,0.2343,0.7229,43.3022
+VCT,St. Vincent and the Grenadines,Americas,Caribbean,UM,n,0.0999,0.0902,0.2825,0.4652,0.1622,11.921
+TTO,Trinidad and Tobago,Americas,Caribbean,H,i,1.3714,0.0003,0.0701,0.3785,0.551,29.4796
+TCA,Turks and Caicos Islands,Americas,Caribbean,H,n,0.0469,0.007,0.0329,0.2227,0.7374,44.9138
+VIR,Virgin Islands (U.S.),Americas,Caribbean,H,n,0.1035,0.0075,0.0352,0.234,0.7233,43.3384
+BLZ,Belize,Americas,Central America,UM,c,0.4229,0.0212,0.1857,0.5524,0.2408,16.0836
+CRI,Costa Rica,Americas,Central America,H,i,5.153,0.0126,0.1095,0.4457,0.4322,23.3877
+SLV,El Salvador,Americas,Central America,UM,i,6.3655,0.0635,0.2651,0.5308,0.1406,12.447
+GTM,Guatemala,Americas,Central America,UM,i,18.6879,0.1347,0.3607,0.4047,0.0999,9.3029
+HND,Honduras,Americas,Central America,LM,i,11.0058,0.2029,0.3365,0.3731,0.0875,8.5203
+MEX,Mexico,Americas,Central America,UM,i,131.9469,0.0311,0.2275,0.5477,0.1937,14.3157
+NIC,Nicaragua,Americas,Central America,LM,i,7.0075,0.0832,0.3625,0.4526,0.1017,10.34
+PAN,Panama,Americas,Central America,H,i,4.5712,0.0537,0.1682,0.4251,0.353,19.072
+CAN,Canada,Americas,Northern America,H,i,41.6348,0.0028,0.0043,0.0647,0.9282,63.1782
+GRL,Greenland,Americas,Northern America,H,n,0.0569,0.0016,0.0219,0.3759,0.6006,30.6385
+USA,United States,Americas,Northern America,H,i,341.8079,0.0111,0.0081,0.0813,0.8994,73.2346
+ARG,Argentina,Americas,South America,UM,i,45.8514,0.0177,0.1544,0.4823,0.3456,19.7912
+BOL,Bolivia,Americas,South America,LM,i,12.5818,0.0368,0.1714,0.5446,0.2472,16.7031
+BRA,Brazil,Americas,South America,UM,i,212.8124,0.0491,0.1844,0.4745,0.2921,17.2554
+CHL,Chile,Americas,South America,H,i,19.8599,0.0058,0.0518,0.484,0.4585,25.0357
+COL,Colombia,Americas,South America,UM,i,53.4256,0.1219,0.287,0.4006,0.1905,11.473
+ECU,Ecuador,Americas,South America,UM,i,18.2899,0.0737,0.2743,0.4688,0.1832,12.7165
+GUY,Guyana,Americas,South America,H,i,0.836,0.0264,0.0129,0.0795,0.8813,75.4712
+PRY,Paraguay,Americas,South America,UM,i,7.0131,0.0328,0.2034,0.5447,0.2191,15.3923
+PER,Peru,Americas,South America,UM,i,34.5767,0.082,0.326,0.4936,0.0984,10.8718
+SUR,Suriname,Americas,South America,UM,c,0.6398,0.0335,0.1995,0.58,0.1869,14.7777
+URY,Uruguay,Americas,South America,H,i,3.3847,0.0035,0.0677,0.4139,0.5148,27.5499
+VEN,Venezuela,Americas,South America,LM,i,28.5169,0.0638,0.2238,0.4883,0.2241,14.4734

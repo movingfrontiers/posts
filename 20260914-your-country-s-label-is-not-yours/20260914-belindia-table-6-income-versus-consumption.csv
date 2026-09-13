@@ -1,0 +1,5 @@
+compression,line_L_LM,line_LM_UM,line_UM_H,label_fits,poorer,richer,UM_fit_consumption_surveys,UM_fit_income_surveys
+none (baseline),3.8,9.21,26.86,0.6104,0.2186,0.171,0.537,0.4687
+elasticity 0.9,3.8,9.19,27.03,0.6168,0.2138,0.1695,0.5402,0.5071
+elasticity 0.8,3.8,9.17,27.29,0.6237,0.2089,0.1674,0.5441,0.5499
+elasticity 0.7,3.8,9.16,27.62,0.6311,0.2042,0.1648,0.5485,0.5991

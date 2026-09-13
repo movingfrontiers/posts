@@ -1,0 +1,6 @@
+exclusion,line_L_LM,line_LM_UM,line_UM_H,label_fits,poorer,richer
+none (baseline),3.8,9.21,26.86,0.6104,0.2186,0.171
+India excluded from the lower-middle curve,3.84,8.19,26.86,0.6072,0.2006,0.1922
+China excluded from the upper-middle curve,3.8,9.23,24.9,0.6046,0.2148,0.1806
+India and China excluded,3.84,7.96,24.9,0.6001,0.1919,0.208
+curves from the 172 survey economies only,3.8,9.2,26.88,0.6101,0.2216,0.1683

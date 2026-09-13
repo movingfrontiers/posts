@@ -1,0 +1,6 @@
+correction,mean_uplift,line_L_LM,line_LM_UM,line_UM_H,label_fits,poorer,richer,richer_millions
+none (baseline),0.0,3.8,9.21,26.86,0.6104,0.2186,0.171,1404.0
+top decile up to x1.25,0.0423,3.79,9.1,26.74,0.6092,0.2157,0.1752,1438.0
+top decile up to x1.5,0.0847,3.78,9.04,26.64,0.6083,0.214,0.1778,1460.0
+top decile up to x2,0.1694,3.77,8.98,26.51,0.6072,0.212,0.1808,1485.0
+top decile up to x3,0.3387,3.77,8.93,26.35,0.6058,0.2103,0.1838,1509.0
