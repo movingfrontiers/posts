@@ -1,4 +1,4 @@
-"""Build belindia_replication.xlsx: live 2025 engine plus every result as values."""
+"""Build belindia_workbook.xlsx: live 2025 engine plus every result as values."""
 import pandas as pd, numpy as np, pickle, os, json
 from openpyxl import Workbook
 from openpyxl.styles import Font, Alignment, PatternFill
@@ -46,7 +46,7 @@ def frame(name,title,note,df,index=False,fmts=None,width=28):
 # ---------------- Read me / method / limitations ----------------
 text_sheet('Read me','Belindia replication workbook: Your Country\'s Label Is Not Yours',[
  'WHAT THIS WORKBOOK IS',
- 'The complete data and results behind Moving Frontiers Post 6 (September 2026). Nothing here refers to an external file. This workbook is built by build_belindia_workbook.py from the output of belindia_replication.py, so it can be rebuilt from the World Bank 1000-bin file alone. The 2025 engine is live: change the bandwidth on "Assumptions" and the curves, the typicality lines, every economy\'s shares and the Belindia matrix all recompute from the distributions on "Bins 2025". Every other result is a value produced by belindia_replication.py, which uses the identical method and can be re-run from the World Bank\'s 1000-bin file alone.',
+ 'The complete data and results behind Moving Frontiers Post 6 (September 2026). Nothing here refers to an external file. This workbook is built by belindia_build_workbook.py from the output of belindia_replication.py, so it can be rebuilt from the World Bank 1000-bin file alone. The 2025 engine is live: change the bandwidth on "Assumptions" and the curves, the typicality lines, every economy\'s shares and the Belindia matrix all recompute from the distributions on "Bins 2025". Every other result is a value produced by belindia_replication.py, which uses the identical method and can be re-run from the World Bank\'s 1000-bin file alone.',
  '',
  'THE QUESTION',
  'The World Bank sorts countries into four income groups on GNI per capita, an average that says nothing about how income is shared. This workbook asks how many people inside each group actually live at a standard typical of that group, and how many live at a standard typical of a poorer or a richer one.',

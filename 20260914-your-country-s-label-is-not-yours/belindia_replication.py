@@ -27,7 +27,7 @@ Run:  python3 belindia_replication.py            (downloads if needed)
 WHAT IT PRODUCES
 ----------------
     belindia_replication_output.xlsx   every result, one sheet per table
-    country-results.csv                Annex 2 on its own, for convenience
+    belindia_country-results.csv       Annex 2 on its own, for convenience
 
 METHOD IN BRIEF
 ---------------
@@ -67,7 +67,7 @@ BIN_URL = ("https://datacatalogfiles.worldbank.org/ddh-published/0064304/DR00944
            "GlobalDist1000bins_1990_2026_20260324_2021_01_02_PROD.csv")
 BIN_CACHE = "GlobalDist1000bins_1990_2026_20260324_2021_01_02_PROD.csv"
 OUT_XLSX = "belindia_replication_output.xlsx"
-OUT_CSV = "country-results.csv"          # Annex 2, the one table worth a standalone file
+OUT_CSV = "belindia_country-results.csv" # Annex 2, the one table worth a standalone file
 
 # --------------------------------------------------------------------------
 # Method parameters. BW is the only free choice and is varied in check_smoothing.
@@ -757,7 +757,8 @@ def main():
     r90f = main_year(df, 1990, lines=z)
 
     add("Read me", "Belindia replication: results behind Your Country's Label Is Not Yours",
-        "One sheet per table in the post. Every sheet is also written as a csv. "
+        "One sheet per table in the post. The country results sheet is also "
+        f"written as {OUT_CSV}. "
         "Method and conventions are documented in the script header.",
         pd.DataFrame({"item": ["typicality lines 2025", "label fits 2025", "population 2025",
                                "poorer than label", "richer than label"],
