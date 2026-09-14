@@ -29,7 +29,7 @@ def build():
         v = np.array(DATA[key]) * 100
         ax.barh(y, v, left=left, color=c4[k], label=["Low-income standard", "Lower-middle standard", "Upper-middle standard", "High-income standard"][k])
         for i in range(n):
-            if v[i] >= 8: ax.text(left[i] + v[i] / 2, y[i], f"{v[i]:.0f}", ha="center", va="center", color="white", fontsize=mf.LABEL_PT)
+            if v[i] >= 8: ax.text(left[i] + v[i] / 2, y[i], f"{v[i]:.0f}", ha="center", va="center", color=mf.INK if k == 1 else "white", fontsize=mf.LABEL_PT)
         left += v
     ax.set_yticks(y); ax.set_yticklabels([f"{e}\n{p:,.0f}m" for e, p in zip(DATA["economy"], DATA["pop_m"])])
     for i in range(n): ax.text(105, y[i], DATA["wtype"][i], ha="center", va="center", fontsize=mf.LABEL_PT, color=mf.SUB_INK, clip_on=False)
