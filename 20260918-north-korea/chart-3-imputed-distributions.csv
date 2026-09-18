@@ -1,0 +1,11 @@
+label,kind,group,survey,pop_m,at_L,at_LM,at_UM,at_H
+Cambodia,focal,LM,n,17.8,0.1421,0.5389,0.2981,0.0209
+Indonesia,twin,UM,c,285.7,0.1155,0.5998,0.2604,0.0243
+"Korea, DPR",focal,L,n,26.6,0.1077,0.5031,0.3612,0.0279
+Sri Lanka,twin,UM,c,22.0,0.0857,0.527,0.3439,0.0434
+Liechtenstein,focal,H,n,0.041,0.0025,0.0353,0.4828,0.4794
+Türkiye,twin,UM,i,85.7,0.0027,0.0453,0.3936,0.5583
+Low-income avg,agg,L,,767.5,0.6481,0.2903,0.0579,0.0036
+Lower-middle avg,agg,LM,,2946.4,0.2187,0.5836,0.1829,0.0148
+Upper-middle avg,agg,UM,,3077.9,0.038,0.2609,0.522,0.179
+High-income avg,agg,H,,1418.9,0.0069,0.0121,0.1435,0.8376
