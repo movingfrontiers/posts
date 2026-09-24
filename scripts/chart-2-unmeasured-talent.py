@@ -1,0 +1,116 @@
+# ---- Moving Frontiers house style (inlined) ----
+import io, os, csv, numpy as np, matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+from PIL import Image, ImageDraw, ImageFont
+RED='#C62828'; GOLD='#F9A825'; GREEN='#00897B'; BLUE='#283593'; GREY='#888888'; INK='#141414'; LIGHT='#CFCFCF'
+PALETTE={1:[BLUE],2:[RED,BLUE],3:[RED,BLUE,GOLD],4:[RED,GOLD,GREEN,BLUE]}
+def palette(n): return PALETTE[n]
+REF_W=1980; W=1980; S=W/REF_W
+GAP_TITLE_SUB=int(25*S); GAP_SUB_PLOT=int(70*S); GAP_PLOT_CAP=int(60*S); GAP_CAP_MARK=int(20*S); BORDER=int(70*S)
+_FD=os.path.join(os.path.dirname(matplotlib.__file__),'mpl-data/fonts/ttf')
+_REG=os.path.join(_FD,'DejaVuSans.ttf'); _BOLD=os.path.join(_FD,'DejaVuSans-Bold.ttf')
+plt.rcParams.update({'font.family':'DejaVu Sans','font.size':17,'xtick.labelsize':16,'ytick.labelsize':16,'legend.fontsize':16,
+ 'axes.labelsize':17,'axes.edgecolor':'#888','axes.linewidth':1.0,'axes.facecolor':'white','figure.facecolor':'white',
+ 'axes.spines.top':False,'axes.spines.right':False,'text.color':INK,'axes.labelcolor':INK,'xtick.color':'#444','ytick.color':'#444'})
+PLOT_W=W-2*BORDER
+def new_fig(h=7.4,left=0.12,right=0.96,bottom=0.14,top=0.97,aspect=0.798):
+    fig,ax=plt.subplots(figsize=(PLOT_W/200,h),dpi=200)
+    fig.subplots_adjust(left=left,right=right,bottom=bottom,top=top)
+    if aspect: ax.set_box_aspect(aspect)
+    return fig,ax
+def save_csv(path,header,rows):
+    with open(path,'w',newline='') as f:
+        w=csv.writer(f); w.writerow(header); w.writerows(rows)
+def _wrap(d,text,font,width):
+    out=[];cur=''
+    for w in text.split():
+        t=(cur+' '+w).strip()
+        if d.textlength(t,font=font)<=width: cur=t
+        else: out.append(cur); cur=w
+    if cur: out.append(cur)
+    return out
+def _block(d,lines,font,top,pitch,fill,right=False):
+    b0=d.textbbox((0,0),lines[0],font=font,anchor='ls'); base=top-b0[1]; low=top; boxes=[]
+    for i,l in enumerate(lines):
+        bl=base+i*pitch; bb=d.textbbox((0,bl),l,font=font,anchor='ls')
+        x=(W-BORDER-bb[2]) if right else (BORDER-bb[0])
+        d.text((x,bl),l,font=font,fill=fill,anchor='ls'); bb=d.textbbox((x,bl),l,font=font,anchor='ls')
+        low=max(low,bb[3]-1); boxes.append(bb)
+    return low,boxes
+def _ink(img):
+    a=np.asarray(img.convert('RGB')); m=(a<245).any(axis=2)
+    ys=np.where(m.any(axis=1))[0]; xs=np.where(m.any(axis=0))[0]
+    return xs[0],ys[0],xs[-1],ys[-1]
+def compose(fig,title,subtitle,source,note,out):
+    from matplotlib.text import Text
+    fig.canvas.draw(); r=fig.canvas.get_renderer(); fw,fh=fig.bbox.width,fig.bbox.height
+    skip=set()
+    for a in fig.axes:
+        for axis in (a.xaxis,a.yaxis):
+            lo,hi=sorted(axis.get_view_interval())
+            for tk in axis.get_major_ticks()+axis.get_minor_ticks():
+                if not (lo-1e-9<=tk.get_loc()<=hi+1e-9): skip.update([id(tk.label1),id(tk.label2)])
+    for t in fig.findobj(Text):
+        if id(t) in skip: continue
+        if t.get_visible() and t.get_text().strip():
+            e=t.get_window_extent(r)
+            assert e.x0>=-1 and e.x1<=fw+1 and e.y0>=-1 and e.y1<=fh+1, ('text outside figure',t.get_text()[:40])
+    buf=io.BytesIO(); fig.savefig(buf,format='png',dpi=200,facecolor='white',bbox_inches='tight',pad_inches=0.12); plt.close(fig)
+    ch=Image.open(buf).convert('RGB'); x0,y0,x1,y1=_ink(ch); ch=ch.crop((x0,y0,x1+1,y1+1))
+    assert ch.width<=PLOT_W, ('plot too wide',ch.width,PLOT_W)
+    tf=ImageFont.truetype(_BOLD,int(round(0.031*W))); sf=ImageFont.truetype(_REG,int(40*S))
+    cf=ImageFont.truetype(_REG,int(27*S)); wf=ImageFont.truetype(_REG,int(32*S))
+    tmp=Image.new('RGB',(W,6000),'white'); d=ImageDraw.Draw(tmp); G={}
+    y,_=_block(d,_wrap(d,title,tf,PLOT_W),tf,BORDER,int(tf.size*1.25),(45,45,45)); G['title_bottom']=y
+    y,_=_block(d,_wrap(d,subtitle,sf,PLOT_W),sf,y+1+GAP_TITLE_SUB,int(sf.size*1.3),(100,100,100)); G['sub_bottom']=y
+    ptop=y+1+GAP_SUB_PLOT; tmp.paste(ch,(BORDER,ptop)); pbot=ptop+ch.height-1; G['plot_top']=ptop; G['plot_bottom']=pbot
+    cap=_wrap(d,'Source: '+source,cf,PLOT_W)+(_wrap(d,'Note: '+note,cf,PLOT_W) if note else [])
+    y,_=_block(d,cap,cf,pbot+1+GAP_PLOT_CAP,int(cf.size*1.38),(102,102,102)); G['cap_top']=pbot+1+GAP_PLOT_CAP; G['cap_bottom']=y
+    y,_=_block(d,['movingfrontiers.substack.com'],wf,y+1+GAP_CAP_MARK,40,(102,102,102),right=True); G['mark_top']=G['cap_bottom']+1+GAP_CAP_MARK; G['mark_bottom']=y
+    img=tmp.crop((0,0,W,y+1+BORDER)); img.save(out); verify(out,G); return out
+def verify(path,G):
+    img=Image.open(path); x0,y0,x1,y1=_ink(img)
+    a=np.asarray(img.convert('RGB')); rows=(a<245).any(axis=2).any(axis=1)
+    def gap_after(r):
+        r0=r+1
+        while not rows[r0]: r0+=1
+        return r0-r-1
+    def last_ink(r):
+        while not rows[r]: r-=1
+        return r
+    chk={'top border':(y0,BORDER),'left border':(x0,BORDER),'bottom border':(img.height-1-y1,BORDER),
+         'subtitle to plot':(gap_after(last_ink(G['sub_bottom'])),GAP_SUB_PLOT),
+         'plot to caption':(gap_after(G['plot_bottom']),GAP_PLOT_CAP),
+         'caption to mark':(gap_after(last_ink(G['cap_bottom'])),GAP_CAP_MARK)}
+    for k,(got,want) in chk.items(): assert abs(got-want)<=1,(k,got,want)
+    assert x1<=W-BORDER,('right border',x1)
+    return True
+# ---- end style ----
+
+SLUG='chart-2-unmeasured-talent'
+# region, share of students below basic, share not enrolled in secondary, share of all children below basic (Gust, Hanushek, Woessmann 2024, Table 1)
+D=[('Sub-Saharan Africa',0.893,0.665,0.941),('South Asia',0.850,0.402,0.892),('Middle East & North Africa',0.639,0.195,0.679),
+('Latin America & Caribbean',0.612,0.210,0.652),('Central Asia',0.400,0.094,0.421),('East Asia & Pacific',0.311,0.219,0.354),
+('Europe',0.259,0.102,0.284),('North America',0.222,0.069,0.239),('World',0.631,0.355,0.672)]
+save_csv(SLUG+'.csv',['region','students_below_basic','not_enrolled_secondary','all_children_below_basic'],D)
+fig,ax=new_fig(h=7.6,left=0.36,right=0.95,bottom=0.16,top=0.98)
+R=D[::-1]; y=np.arange(len(R))
+asia={'South Asia','Central Asia','East Asia & Pacific'}
+ax.barh(y,[100*r[3] for r in R],height=0.66,color=palette(2)[0],zorder=3)
+ax.scatter([100*r[2] for r in R],y,marker='D',s=90,color=palette(2)[1],edgecolor='white',lw=0.8,zorder=5)
+for i,r in enumerate(R): ax.text(100*r[3]+1.2,i,f'{100*r[3]:.0f}%',va='center',fontsize=16,fontweight='bold')
+ax.set_yticks(y); ax.set_yticklabels([r[0] for r in R]); ax.tick_params(axis='y',length=0)
+for t,r in zip(ax.get_yticklabels(),R):
+    if r[0]=='World': t.set_fontweight('bold')
+    elif r[0] in asia: t.set_fontweight('bold')
+ax.set_xlim(0,105); ax.set_ylim(-0.6,len(R)-0.4); ax.set_xlabel('Share of children (%)')
+from matplotlib.patches import Patch
+from matplotlib.lines import Line2D
+ax.legend(handles=[Patch(color=palette(2)[0],label='All children below basic skills'),Line2D([],[],marker='D',ls='',color=palette(2)[1],mec='white',ms=10,label='Not enrolled in secondary school')],
+ loc='upper center',bbox_to_anchor=(0.3,-0.12),ncol=1,frameon=False,fontsize=15)
+compose(fig,'Two-thirds of the world\'s youth never reach basic skills, and a third are not even in secondary school',
+ 'Estimated share of children who do not reach basic skills in mathematics and science, including those out of school, by world region',
+ 'Gust, Hanushek and Woessmann (2024), "Global universal basic skills: Current deficits and implications for world development", Journal of Development Economics 166, Table 1.',
+ 'Basic skills are defined as PISA Level 1, one level below PISA\'s baseline Level 2. Estimates cover 159 countries with 98% of world population; India and China are estimated from subnational and national data, and out-of-school children\'s skills are imputed.',
+ SLUG+'.png')

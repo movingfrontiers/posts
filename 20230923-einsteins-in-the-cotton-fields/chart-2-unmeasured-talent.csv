@@ -1,0 +1,10 @@
+region,students_below_basic,not_enrolled_secondary,all_children_below_basic
+Sub-Saharan Africa,0.893,0.665,0.941
+South Asia,0.85,0.402,0.892
+Middle East & North Africa,0.639,0.195,0.679
+Latin America & Caribbean,0.612,0.21,0.652
+Central Asia,0.4,0.094,0.421
+East Asia & Pacific,0.311,0.219,0.354
+Europe,0.259,0.102,0.284
+North America,0.222,0.069,0.239
+World,0.631,0.355,0.672
