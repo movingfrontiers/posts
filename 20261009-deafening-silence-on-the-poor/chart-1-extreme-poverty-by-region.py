@@ -162,7 +162,7 @@ ax.legend(loc="upper center", bbox_to_anchor=(0.5, -0.09), ncol=2, frameon=False
 ax.set_box_aspect(0.798)
 
 compose(render_plot(fig),
-        title="Extreme poverty is barely falling, and Africa now holds most of it",
+        title="After a rapid fall, extreme poverty reduction has stalled",
         subtitle="People living on less than $3.00 a day (2021 PPP), millions, 1990 to 2026",
         source="World Bank Poverty and Inequality Platform, March 2026 release ($3.00 line, 2021 PPP).",
         note="2025 and 2026 are World Bank nowcasts. Regions follow World Bank groupings; the Middle East and North Africa aggregate includes Afghanistan and Pakistan. Rest of the world is the residual after the four named regions.",
