@@ -136,8 +136,8 @@ total = 846.8
 children, workers = 412.0, 284.0
 other = round(total - children - workers, 1)
 rows = [("Children under 18", children, RED),
-        ("Adults who work", workers, BLUE),
-        ("Other adults (older, disabled, carers, unemployed)", other, GREY)]
+        ("Adults who work", workers, GOLD),
+        ("Other adults (older, disabled, carers, unemployed)", other, BLUE)]
 
 fig = new_figure(9.2, 4.6)
 ax = fig.add_subplot(111)
@@ -145,7 +145,7 @@ left = 0
 for lab, v, c in rows:
     ax.barh([0], [v], left=left, color=c, height=0.55, label=lab)
     ax.text(left + v / 2, 0, f"{v:,.0f}m\n{v / total:.0%}", ha="center", va="center", fontsize=14,
-            color="white" if c != GREY else INK, fontweight="bold", linespacing=1.3)
+            color=INK if c == GOLD else "white", fontweight="bold", linespacing=1.3)
     left += v
 ax.set_xlim(0, total)
 ax.set_ylim(-0.4, 0.4)

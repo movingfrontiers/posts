@@ -136,7 +136,7 @@ world_2025 = 837.2
 fcs_2025, fcs_2030 = 421.0, 435.0
 rest_2025 = round(world_2025 - fcs_2025, 1)
 rows = [("Conflict or instability\naffected economies, 2025", fcs_2025, RED, f"{fcs_2025:,.0f}m  (50% of world)"),
-        ("All other economies, 2025", rest_2025, GREY, f"{rest_2025:,.0f}m  (50% of world)"),
+        ("All other economies, 2025", rest_2025, BLUE, f"{rest_2025:,.0f}m  (50% of world)"),
         ("Conflict or instability\naffected economies, 2030 projection", fcs_2030, RED, f"{fcs_2030:,.0f}m  (nearly 60% of world)")]
 
 fig = new_figure(9.2, 5.4)
@@ -159,7 +159,7 @@ compose(render_plot(fig),
         title="Half the world's extreme poor live in economies affected by conflict or instability",
         subtitle="People below $3.00 a day, millions, 2025 and World Bank projection for 2030",
         source="World Bank, Fragility and Conflict: On the Front Lines of the Fight against Poverty (June 2025); World Bank Poverty and Inequality Platform (March 2026) for the world total.",
-        note="The 39 economies are those on the World Bank's 2025 list of fragile and conflict-affected situations, 21 of them in active conflict. The 2030 bar is hatched to mark a projection. Their extreme poverty rate is about 40 percent against 6 percent in other developing economies; per capita GDP there has fallen 1.8 percent a year since 2020 and only about half of the working-age population was employed in 2022.",
+        note="The 39 economies are those on the World Bank's 2025 list of fragile and conflict-affected situations, 21 of them in active conflict. The 2030 bar is hatched to mark a projection.",
         out="chart-6-fragile-conflict-settings.png", csv="chart-6-fragile-conflict-settings.csv",
         csv_rows=[["group", "poor_millions_2025"], ["conflict or instability affected economies", fcs_2025],
                   ["all other economies", rest_2025], ["conflict affected economies, 2030 projection", fcs_2030]])

@@ -131,12 +131,12 @@ def verify(path, heights):
 
 # 2025 Global MPI (UNDP and OPHI, October 2025). Millions of people.
 rows = [
-    ("All multidimensionally poor", 1100, INK),
+    ("All multidimensionally poor", 1100, BLUE),
     ("Live in regions exposed to a climate hazard", 887, RED),
-    ("Live in middle-income countries", 740, GREY),
+    ("Live in middle-income countries", 740, GOLD),
     ("Are children under 18", 586, RED),
-    ("Live in Sub-Saharan Africa", 565, GREY),
-    ("Live in South Asia", 390, GREY),
+    ("Live in Sub-Saharan Africa", 565, GOLD),
+    ("Live in South Asia", 390, GOLD),
 ]
 labels = [r[0] for r in rows][::-1]
 vals = [r[1] for r in rows][::-1]
