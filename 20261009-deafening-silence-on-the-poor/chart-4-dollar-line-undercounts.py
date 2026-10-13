@@ -1,4 +1,4 @@
-"""Chart 4: dollar line undercounts.
+"""Chart 4: dollar line undercounts (2026 global MPI).
 Self-contained: house style and data are embedded. Requires numpy, matplotlib and Pillow.
 Run: python chart-4-dollar-line-undercounts.py  -> writes chart-4-dollar-line-undercounts.png and .csv
 """
@@ -129,40 +129,42 @@ def verify(path, heights):
     print(f"verified {path}: size {a.shape[1]}x{a.shape[0]}, gaps {found}")
 # ---------------------------------------------------------------------------
 
-# OPHI and UNDP global MPI 2025, Table 1.4: MPI headcount and World Bank $3.00 headcount for the same country.
-# The 20 countries with MPI headcount >= 20% and the largest gap, sorted by gap ascending.
-# (country, MPI headcount %, $3.00 headcount %, year of $3.00 estimate)
+# UNDP and OPHI, 2026 global MPI statistical update, Table 1: acute multidimensional poverty headcount and the World Bank
+# $3.00 a day headcount (2021 PPP, WDI, most recent year 2014 to 2025) for the same country.
+# The 20 countries with an MPI headcount of at least 20 percent and the largest gap, sorted by gap ascending.
+# (country, MPI survey, acute MPI headcount %, $3.00 headcount %)
 DATA = [
-    ('Nepal', 20.07, 2.40, '2022'),
-    ('Sierra Leone', 59.22, 41.50, '2018'),
-    ('Namibia', 40.88, 22.90, '2015'),
-    ('Liberia', 52.32, 33.60, '2016'),
-    ('Guatemala', 28.88, 9.70, '2023'),
-    ('Niger', 79.89, 60.50, '2021'),
-    ('Gambia', 41.71, 22.00, '2020'),
-    ('Pakistan', 38.33, 16.50, '2018'),
-    ("Cote d'Ivoire", 42.77, 20.90, '2021'),
-    ('Burkina Faso', 64.47, 42.10, '2021'),
-    ('Guinea-Bissau', 64.40, 39.90, '2021'),
-    ('Senegal', 45.08, 17.90, '2021'),
-    ('Myanmar', 38.32, 10.30, '2017'),
-    ('Benin', 55.92, 27.20, '2021'),
-    ('Ethiopia', 68.74, 38.60, '2021'),
-    ('Mali', 68.33, 36.10, '2021'),
-    ('Sudan', 52.33, 10.10, '2014'),
-    ('Chad', 84.17, 39.50, '2022'),
-    ('Mauritania', 58.45, 10.20, '2019'),
-    ('Guinea', 66.21, 11.70, '2018')
+    ('Rwanda', '2019/2020 D', 48.82, 38.6),
+    ('Pakistan', '2017/2018 D', 38.33, 23.0),
+    ('Cameroon', '2018 D', 43.59, 26.7),
+    ('Sierra Leone', '2019 D', 59.22, 41.5),
+    ('Liberia', '2019/2020 D', 52.32, 33.6),
+    ('Guatemala', '2014/2015 D', 28.88, 9.7),
+    ('Niger', '2021 N', 79.89, 60.5),
+    ('Gambia', '2019/2020 D', 41.71, 22.0),
+    ("Côte d'Ivoire", '2021 D', 42.77, 20.8),
+    ('Burkina Faso', '2021 D', 64.47, 42.1),
+    ('Guinea-Bissau', '2018/2019 M', 64.40, 39.9),
+    ('Senegal', '2023 D', 45.08, 17.9),
+    ('Myanmar', '2015/2016 D', 38.32, 10.3),
+    ('Mali', '2023/2024 D', 64.40, 36.1),
+    ('Benin', '2021/2022 M', 55.92, 27.2),
+    ('Ethiopia', '2019 D', 68.74, 38.6),
+    ('Sudan', '2014 M', 52.33, 10.1),
+    ('Chad', '2019 M', 84.17, 39.5),
+    ('Mauritania', '2019/2021 D', 58.45, 10.2),
+    ('Guinea', '2018 D', 66.21, 11.7)
 ]
-N_DOUBLE, N_BOTH = 13, 104   # countries (of all with both measures, H >= 10%) where MPI > 2x $3.00 rate
-
-labels = [r[0] for r in DATA]; H = [r[1] for r in DATA]; h3 = [r[2] for r in DATA]
+N_DOUBLE, N_BOTH = 15, 91   # countries (of all with both measures, MPI headcount >= 10%) where MPI > 2x $3.00 rate
+short = {"Congo (Democratic Republic of the)": "DR Congo", "Tanzania (United Republic of)": "Tanzania", "Central African Republic": "Central African Rep."}
+DATA = sorted(DATA, key=lambda r: r[3])   # plotted from the lowest $3.00 rate at the bottom to the highest at the top
+labels = [short.get(r[0], r[0]) for r in DATA]; H = [r[2] for r in DATA]; h3 = [r[3] for r in DATA]
 fig = new_figure(9.2, 8.4)
 ax = fig.add_subplot(111)
 y = list(range(len(DATA)))
-ax.hlines(y, h3, H, color="#BBBBBB", lw=2, zorder=1)
+ax.hlines(y, h3, H, color=GOLD, lw=2, zorder=1)
 ax.scatter(h3, y, color=BLUE, s=70, zorder=3, label="Below $3.00 a day")
-ax.scatter(H, y, color=RED, s=70, zorder=3, label="Multidimensionally poor")
+ax.scatter(H, y, color=RED, s=70, zorder=3, label="In acute multidimensional poverty")
 for yy, a, b in zip(y, h3, H):
     ax.text(b + 1.5, yy, f"{b:.0f}%", va="center", ha="left", fontsize=12, color=RED)
     if a >= 6:
@@ -177,10 +179,10 @@ ax.tick_params(axis="y", length=0); ax.spines["left"].set_visible(False)
 ax.legend(loc="upper center", bbox_to_anchor=(0.5, -0.09), ncol=2, frameon=False)
 
 compose(render_plot(fig),
-        title="Where the dollar line undercounts: the 20 largest gaps between multidimensional and income poverty",
-        subtitle="Multidimensionally poor versus below $3.00 a day, share of population, same country",
-        source="OPHI and UNDP, global Multidimensional Poverty Index 2025, Table 1.4, which pairs each country's MPI headcount with the World Bank's $3.00 headcount (2021 PPP).",
-        note=f"Countries with an MPI headcount of at least 20 percent, ranked by the gap in percentage points. The two measures come from different surveys and years. In {N_DOUBLE} of the {N_BOTH} countries with both measures, multidimensional poverty is more than double income poverty.",
+        title="The 20 largest gaps between the MPI and income poverty",
+        subtitle="Share of population in acute multidimensional poverty versus below $3.00 a day, same country, 2026 global MPI",
+        source="UNDP and OPHI, 2026 global Multidimensional Poverty Index statistical update (October 2026), Table 1, which pairs each country's MPI headcount with the World Bank's $3.00 a day headcount (2021 PPP).",
+        note=f"Acute multidimensional poverty means a deprivation score of at least one third across ten weighted indicators. The 20 countries with an MPI headcount of at least 20 percent and the largest gap in percentage points, sorted by the $3.00 rate. The two measures come from different surveys and years, both the most recent available between 2014 and 2025. In {N_DOUBLE} of the {N_BOTH} countries with both measures and an MPI headcount of at least 10 percent, acute multidimensional poverty is more than double income poverty.",
         out="chart-4-dollar-line-undercounts.png", csv="chart-4-dollar-line-undercounts.csv",
-        csv_rows=[["country", "mpi_headcount_pct", "below_3_dollars_pct", "year_of_3_dollar_estimate", "gap_pp"]]
-                 + [[r[0], r[1], r[2], r[3], round(r[1] - r[2], 2)] for r in DATA])
+        csv_rows=[["country", "mpi_survey", "acute_mpi_headcount_pct", "below_3_dollars_pct", "gap_pp"]]
+                 + [[r[0], r[1], r[2], r[3], round(r[2] - r[3], 2)] for r in DATA])

@@ -1,6 +1,6 @@
-"""Chart 3: multidimensional poverty.
+"""Chart 3: multidimensional poverty (2026 global MPI).
 Self-contained: house style and data are embedded. Requires numpy, matplotlib and Pillow.
-Run: python chart-3-multidimensional-poverty.py  -> writes chart-3-multidimensional-poverty.png and chart-3-multidimensional-poverty.csv
+Run: python chart-3-multidimensional-poverty.py  -> writes chart-3-multidimensional-poverty.png and .csv
 """
 # ---- Moving Frontiers house style (inlined) -------------------------------
 # Plot in matplotlib on a transparent canvas, then compose() lays out title,
@@ -129,14 +129,17 @@ def verify(path, heights):
     print(f"verified {path}: size {a.shape[1]}x{a.shape[0]}, gaps {found}")
 # ---------------------------------------------------------------------------
 
-# 2025 Global MPI (UNDP and OPHI, October 2025). Millions of people.
+# UNDP and OPHI, 2026 global MPI statistical update (12 October 2026), Table 1. Millions of people, headcounts applied
+# to 2024 population (the table's own projection). Severe, Sub-Saharan Africa, South Asia and middle-income figures are
+# own sums of the country rows; children from the UNDP release (51.5 percent of the poor).
+TOTAL = 1198      # people in acute multidimensional poverty, deprivation score of one third or more
 rows = [
-    ("All multidimensionally poor", 1100, BLUE),
-    ("Live in regions exposed to a climate hazard", 887, RED),
-    ("Live in middle-income countries", 740, GOLD),
-    ("Are children under 18", 586, RED),
-    ("Live in Sub-Saharan Africa", 565, GOLD),
-    ("Live in South Asia", 390, GOLD),
+    ("All in acute multidimensional poverty", TOTAL, BLUE),
+    ("Live in middle-income countries", 779, GOLD),
+    ("Are children under 18", 617, RED),
+    ("Live in Sub-Saharan Africa", 616, GOLD),
+    ("Are in severe multidimensional poverty", 534, RED),
+    ("Live in South Asia", 393, GOLD),
 ]
 labels = [r[0] for r in rows][::-1]
 vals = [r[1] for r in rows][::-1]
@@ -147,7 +150,7 @@ ax = fig.add_subplot(111)
 bars = ax.barh(labels, vals, color=cols, height=0.62)
 for b, v in zip(bars, vals):
     ax.text(v + 15, b.get_y() + b.get_height() / 2, f"{v:,}", va="center", ha="left", fontsize=14, color=INK, fontweight="bold")
-ax.set_xlim(0, 1250)
+ax.set_xlim(0, 1350)
 ax.set_xticks(range(0, 1201, 300))
 ax.set_xticklabels([f"{v:,}" for v in range(0, 1201, 300)])
 ax.set_xlabel("Millions of people")
@@ -155,9 +158,9 @@ ax.tick_params(axis="y", length=0)
 ax.spines["left"].set_visible(False)
 
 compose(render_plot(fig),
-        title="Multidimensional poverty: 1.1 billion people, half of them children",
-        subtitle="People in acute multidimensional poverty, millions, 109 countries, 2025 index",
-        source="UNDP and OPHI, 2025 Global Multidimensional Poverty Index (October 2025).",
-        note="The MPI counts people deprived in at least a third of ten weighted indicators across health, education and living standards, using the most recent survey available for each country. Categories overlap and do not sum to the total. Climate hazard exposure refers to subnational regions facing at least one of high heat, drought, floods or air pollution.",
+        title="Acute multidimensional poverty: 1.2 billion people, half of them children, and rising for the first time",
+        subtitle="People in acute multidimensional poverty, millions, 108 countries, 2026 global MPI",
+        source="UNDP and OPHI, 2026 global Multidimensional Poverty Index statistical update (October 2026), Table 1; children from the UNDP release.",
+        note="Acute multidimensional poverty means a deprivation score of at least one third across ten weighted indicators of health, education and living standards; severe means a score of one half or more and is a subset of the total. Headcounts from the latest survey for each country (2014 to 2025) are applied to 2024 population. Categories overlap and do not sum to the total. Income groups follow the World Bank FY27 classification. UNDP reports that the number in acute multidimensional poverty rose in 2026 for the first time since the index began in 2010.",
         out="chart-3-multidimensional-poverty.png", csv="chart-3-multidimensional-poverty.csv",
-        csv_rows=[["group", "poor_millions"]] + [[r[0], r[1]] for r in rows])
+        csv_rows=[["group", "poor_millions_2024_population"]] + [[r[0], r[1]] for r in rows])
