@@ -1,0 +1,12 @@
+indicator,description,poor_deprived_m
+child_mortality,lost a child in the past five years,144.5
+attendance,have a child out of school,447.0
+water,lack safe drinking water close by,473.6
+assets,own almost no assets,484.6
+schooling,have no one at home with six years of schooling,522.9
+electricity,have no electricity,535.4
+nutrition,live with an undernourished person,557.1
+sanitation,have no adequate toilet,741.9
+housing,live in inadequate housing,782.6
+cooking,"cook with wood, charcoal or dung",894.4
+all_poor,All poor in the 89 countries,1041.1
