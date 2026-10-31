@@ -1,0 +1,166 @@
+code,name,region,gdppc_2025,spi_2025,predicted,residual
+WBG,State of Palestine,arab-states,3845.503,64.22,50.039,14.181
+JOR,Jordan,arab-states,9520.251,68.75,60.612,8.138
+SOM,Somalia,arab-states,1408.278,42.18,38.321,3.859
+MAR,Morocco,arab-states,9065.914,63.19,60.042,3.148
+LBN,Lebanon,arab-states,11330.269,65.22,62.643,2.577
+TUN,Tunisia,arab-states,12713.55,66.53,63.986,2.544
+SDN,Sudan,arab-states,1871.589,43.68,41.639,2.041
+DZA,Algeria,arab-states,15442.124,67.62,66.254,1.366
+COM,Comoros,arab-states,3567.514,49.94,49.163,0.777
+SYR,Syria,arab-states,4189.837,48.62,51.039,-2.419
+LBY,Libya,arab-states,12275.91,60.43,63.578,-3.148
+OMN,Oman,arab-states,36654.231,72.72,76.337,-3.617
+KWT,Kuwait,arab-states,45426.945,74.06,78.84,-4.78
+DJI,Djibouti,arab-states,6841.166,50.74,56.758,-6.018
+IRQ,Iraq,arab-states,12725.043,57.08,63.997,-6.917
+ARE,United Arab Emirates,arab-states,68584.655,74.68,83.645,-8.965
+EGY,Egypt,arab-states,16798.152,56.49,67.236,-10.746
+MRT,Mauritania,arab-states,6396.991,44.2,55.975,-11.775
+BHR,Bahrain,arab-states,59129.141,69.94,81.915,-11.975
+SAU,Saudi Arabia,arab-states,62676.698,69.8,82.595,-12.795
+QAT,Qatar,arab-states,110945.88,74.12,89.255,-15.135
+SLB,Solomon Islands,asia-pacific,2527.075,53.51,45.141,8.369
+JPN,Japan,asia-pacific,46097.43,87.23,79.011,8.219
+TLS,Timor-Leste,asia-pacific,4186.215,58.11,51.029,7.081
+NZL,New Zealand,asia-pacific,48162.861,85.46,79.522,5.938
+AUS,Australia,asia-pacific,60082.006,87.52,82.101,5.419
+VNM,Viet Nam,asia-pacific,14415.216,70.76,65.452,5.308
+PHL,Philippines,asia-pacific,10375.94,66.76,61.616,5.144
+KOR,Rep. of Korea,asia-pacific,50414.207,85.14,80.055,5.085
+NPL,Nepal,asia-pacific,5046.816,58.21,53.21,5.0
+FJI,Fiji,asia-pacific,14104.444,69.21,65.197,4.013
+IDN,Indonesia,asia-pacific,14470.437,68.11,65.496,2.614
+LKA,Sri Lanka,asia-pacific,13752.837,66.76,64.903,1.857
+THA,Thailand,asia-pacific,21737.178,70.79,70.242,0.548
+BTN,Bhutan,asia-pacific,14645.266,66.11,65.636,0.474
+KHM,Cambodia,asia-pacific,7011.582,56.34,57.045,-0.705
+MYS,Malaysia,asia-pacific,34071.945,74.13,75.485,-1.355
+MNG,Mongolia,asia-pacific,16801.307,65.87,67.238,-1.368
+IND,India,asia-pacific,9817.071,58.79,60.971,-2.181
+MDV,Maldives,asia-pacific,23351.054,68.62,71.078,-2.458
+CHN,China,asia-pacific,23845.62,68.82,71.322,-2.502
+PNG,Papua New Guinea,asia-pacific,4300.726,47.84,51.344,-3.504
+MMR,Myanmar,asia-pacific,5276.294,49.98,53.728,-3.748
+SGP,Singapore,asia-pacific,132569.525,86.74,91.332,-4.592
+IRN,Iran,asia-pacific,16224.035,62.16,66.83,-4.67
+PAK,Pakistan,asia-pacific,5530.996,48.49,54.278,-5.788
+BGD,Bangladesh,asia-pacific,8486.785,52.98,59.272,-6.292
+LAO,Lao PDR,asia-pacific,8610.902,50.81,59.441,-8.631
+AFG,Afghanistan,asia-pacific,1983.813,33.43,42.318,-8.888
+KGZ,Kyrgyzstan,eastern-europe-central-asia,7046.31,67.13,57.102,10.028
+MDA,Moldova,eastern-europe-central-asia,16465.929,72.02,67.003,5.017
+UZB,Uzbekistan,eastern-europe-central-asia,10450.205,66.44,61.7,4.74
+TJK,Tajikistan,eastern-europe-central-asia,4755.933,57.23,52.517,4.713
+ALB,Albania,eastern-europe-central-asia,18920.894,72.47,68.624,3.846
+ARM,Armenia,eastern-europe-central-asia,20078.785,72.74,69.317,3.423
+UKR,Ukraine,eastern-europe-central-asia,16319.845,70.02,66.899,3.121
+MNE,Montenegro,eastern-europe-central-asia,27853.643,74.42,73.135,1.285
+SRB,Serbia,eastern-europe-central-asia,26886.009,73.99,72.722,1.268
+BIH,Bosnia and Herzegovina,eastern-europe-central-asia,20429.701,69.56,69.519,0.041
+GEO,Georgia,eastern-europe-central-asia,25000.633,71.54,71.874,-0.334
+MKD,North Macedonia,eastern-europe-central-asia,24465.392,71.24,71.622,-0.382
+BLR,Belarus,eastern-europe-central-asia,29037.529,69.42,73.62,-4.2
+KAZ,Kazakhstan,eastern-europe-central-asia,35905.442,70.85,76.096,-5.246
+AZE,Azerbaijan,eastern-europe-central-asia,22072.106,62.4,70.421,-8.021
+TUR,Türkiye,eastern-europe-central-asia,35294.394,67.27,75.896,-8.626
+RUS,Russian Federation,eastern-europe-central-asia,41704.711,68.35,77.843,-9.493
+TKM,Turkmenistan,eastern-europe-central-asia,17953.846,58.08,68.012,-9.932
+FIN,Finland,europe-north-america,55628.682,90.83,81.203,9.627
+EST,Estonia,europe-north-america,41546.12,86.12,77.798,8.322
+SWE,Sweden,europe-north-america,63258.908,90.47,82.702,7.768
+SVN,Slovenia,europe-north-america,48495.89,86.33,79.603,6.727
+DNK,Denmark,europe-north-america,73709.002,91.16,84.486,6.674
+PRT,Portugal,europe-north-america,41883.851,84.44,77.893,6.547
+ISL,Iceland,europe-north-america,65645.095,89.55,83.134,6.416
+ESP,Spain,europe-north-america,48373.046,85.4,79.573,5.827
+CZE,Czechia,europe-north-america,47961.81,85.05,79.473,5.577
+BEL,Belgium,europe-north-america,63083.184,87.97,82.67,5.3
+DEU,Germany,europe-north-america,62829.796,87.79,82.623,5.167
+AUT,Austria,europe-north-america,63314.463,87.77,82.713,5.057
+GBR,United Kingdom,europe-north-america,52517.985,85.54,80.532,5.008
+NOR,Norway,europe-north-america,91108.237,91.73,86.958,4.772
+CHE,Switzerland,europe-north-america,82026.409,90.41,85.733,4.677
+NLD,Netherlands,europe-north-america,70901.838,88.24,84.033,4.207
+FRA,France,europe-north-america,54464.982,85.07,80.956,4.114
+LVA,Latvia,europe-north-america,38936.045,81.03,77.042,3.988
+ITA,Italy,europe-north-america,53115.135,84.58,80.664,3.916
+CAN,Canada,europe-north-america,56691.907,85.11,81.424,3.686
+GRC,Greece,europe-north-america,37752.632,80.04,76.682,3.358
+LTU,Lithuania,europe-north-america,47169.008,82.46,79.279,3.181
+POL,Poland,europe-north-america,45112.599,81.93,78.759,3.171
+SVK,Slovakia,europe-north-america,40346.575,80.33,77.457,2.873
+ISR,Israel,europe-north-america,47338.842,81.82,79.321,2.499
+HRV,Croatia,europe-north-america,42633.767,79.32,78.1,1.22
+MLT,Malta,europe-north-america,60473.258,83.38,82.177,1.203
+CYP,Cyprus,europe-north-america,53255.523,81.89,80.695,1.195
+BGR,Bulgaria,europe-north-america,34085.195,75.38,75.49,-0.11
+HUN,Hungary,europe-north-america,40702.154,77.16,77.559,-0.399
+IRL,Ireland,europe-north-america,115337.167,88.71,89.708,-0.998
+LUX,Luxembourg,europe-north-america,128181.703,89.11,90.94,-1.83
+USA,United States,europe-north-america,75491.608,81.76,84.764,-3.004
+ROU,Romania,europe-north-america,40610.754,74.49,77.533,-3.043
+JAM,Jamaica,latin-america-caribbean,10259.995,71.35,61.485,9.865
+BRB,Barbados,latin-america-caribbean,19945.737,76.06,69.239,6.821
+CRI,Costa Rica,latin-america-caribbean,26973.436,78.85,72.76,6.09
+CHL,Chile,latin-america-caribbean,30182.787,79.5,74.071,5.429
+URY,Uruguay,latin-america-caribbean,32038.773,79.33,74.767,4.563
+HND,Honduras,latin-america-caribbean,6585.855,60.35,56.314,4.036
+BRA,Brazil,latin-america-caribbean,19647.91,72.74,69.064,3.676
+ARG,Argentina,latin-america-caribbean,26547.05,75.93,72.574,3.356
+ECU,Ecuador,latin-america-caribbean,13935.539,67.3,65.057,2.243
+BOL,Bolivia,latin-america-caribbean,9844.277,63.24,61.003,2.237
+COL,Colombia,latin-america-caribbean,18503.671,69.93,68.364,1.566
+PER,Peru,latin-america-caribbean,15661.75,67.41,66.419,0.991
+PRY,Paraguay,latin-america-caribbean,16296.284,67.42,66.882,0.538
+NIC,Nicaragua,latin-america-caribbean,7661.602,57.69,58.079,-0.389
+SLV,El Salvador,latin-america-caribbean,11669.082,61.63,62.986,-1.356
+SUR,Suriname,latin-america-caribbean,19413.297,67.42,68.924,-1.504
+MEX,Mexico,latin-america-caribbean,22033.274,68.73,70.4,-1.67
+PAN,Panama,latin-america-caribbean,36426.008,72.3,76.264,-3.964
+DOM,Dominican Republic,latin-america-caribbean,24229.468,67.4,71.509,-4.109
+TTO,Trinidad and Tobago,latin-america-caribbean,31689.732,70.47,74.64,-4.17
+GTM,Guatemala,latin-america-caribbean,12640.887,58.98,63.919,-4.939
+HTI,Haiti,latin-america-caribbean,2800.661,38.4,46.34,-7.94
+GUY,Guyana,latin-america-caribbean,70297.403,64.22,83.933,-19.713
+MWI,Malawi,sub-saharan-africa,1635.857,48.44,40.069,8.371
+MOZ,Mozambique,sub-saharan-africa,1495.322,47.01,39.021,7.989
+BDI,Burundi,sub-saharan-africa,835.621,39.43,32.233,7.197
+TZA,Tanzania,sub-saharan-africa,3713.263,54.87,49.63,5.24
+LSO,Lesotho,sub-saharan-africa,2637.917,50.42,45.642,4.778
+CPV,Cabo Verde,sub-saharan-africa,9907.588,65.79,61.078,4.712
+STP,São Tomé and Príncipe,sub-saharan-africa,5480.435,58.43,54.171,4.259
+GMB,The Gambia,sub-saharan-africa,3030.974,51.43,47.262,4.168
+LBR,Liberia,sub-saharan-africa,1658.26,44.12,40.227,3.893
+SEN,Senegal,sub-saharan-africa,4495.895,55.61,51.861,3.749
+KEN,Kenya,sub-saharan-africa,5823.408,57.43,54.879,2.551
+MDG,Madagascar,sub-saharan-africa,1657.05,42.73,40.219,2.511
+UGA,Uganda,sub-saharan-africa,2881.866,49.06,46.674,2.386
+GHA,Ghana,sub-saharan-africa,7061.934,59.35,57.128,2.222
+RWA,Rwanda,sub-saharan-africa,3264.645,50.32,48.129,2.191
+ZMB,Zambia,sub-saharan-africa,3716.037,51.2,49.639,1.561
+ZAF,South Africa,sub-saharan-africa,13598.789,66.25,64.771,1.479
+ZWE,Zimbabwe,sub-saharan-africa,3450.13,50.23,48.773,1.457
+TGO,Togo,sub-saharan-africa,2849.604,47.36,46.543,0.817
+GNB,Guinea-Bissau,sub-saharan-africa,2685.617,46.35,45.851,0.499
+BEN,Benin,sub-saharan-africa,3901.326,50.64,50.207,0.433
+COD,DR Congo,sub-saharan-africa,1504.144,39.44,39.09,0.35
+BFA,Burkina Faso,sub-saharan-africa,2547.933,45.56,45.237,0.323
+NER,Niger,sub-saharan-africa,1772.724,41.05,41.006,0.044
+MUS,Mauritius,sub-saharan-africa,27317.185,72.28,72.908,-0.628
+NAM,Namibia,sub-saharan-africa,10281.336,60.06,61.51,-1.45
+ETH,Ethiopia,sub-saharan-africa,2884.265,44.35,46.684,-2.334
+MLI,Mali,sub-saharan-africa,2910.815,43.91,46.79,-2.88
+SLE,Sierra Leone,sub-saharan-africa,3092.831,43.91,47.498,-3.588
+NGA,Nigeria,sub-saharan-africa,5665.452,49.94,54.558,-4.618
+BWA,Botswana,sub-saharan-africa,18068.505,62.96,68.086,-5.126
+CIV,Côte d'Ivoire,sub-saharan-africa,6733.154,51.44,56.572,-5.132
+CMR,Cameroon,sub-saharan-africa,4919.142,46.44,52.911,-6.471
+CAF,Central African Rep.,sub-saharan-africa,1111.653,28.78,35.563,-6.783
+GIN,Guinea,sub-saharan-africa,4028.484,40.94,50.581,-9.641
+SWZ,Eswatini,sub-saharan-africa,10367.268,49.59,61.607,-12.017
+AGO,Angola,sub-saharan-africa,7344.145,45.26,57.585,-12.325
+GAB,Gabon,sub-saharan-africa,18923.09,56.0,68.625,-12.625
+COG,Congo,sub-saharan-africa,6181.47,42.63,55.575,-12.945
+TCD,Chad,sub-saharan-africa,2605.772,29.6,45.499,-15.899
+GNQ,Equatorial Guinea,sub-saharan-africa,15454.428,43.22,66.263,-23.043
