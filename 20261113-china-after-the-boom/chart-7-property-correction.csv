@@ -1,0 +1,58 @@
+period,series,value,index (2021 = 100)
+2015,investment (RMB tn),9.5979,65.0
+2016,investment (RMB tn),10.2581,69.5
+2017,investment (RMB tn),10.9799,74.4
+2018,investment (RMB tn),12.0264,81.5
+2019,investment (RMB tn),13.2194,89.6
+2020,investment (RMB tn),14.1443,95.8
+2021,investment (RMB tn),14.7602,100.0
+2022,investment (RMB tn),13.2895,90.0
+2023,investment (RMB tn),11.0913,75.1
+2024,investment (RMB tn),10.028,67.9
+2025,investment (RMB tn),8.2788,56.1
+2015-Q1,real house price index (2010=100),93.769,83.9
+2015-Q2,real house price index (2010=100),93.824,83.9
+2015-Q3,real house price index (2010=100),93.834,83.9
+2015-Q4,real house price index (2010=100),94.259,84.3
+2016-Q1,real house price index (2010=100),94.907,84.9
+2016-Q2,real house price index (2010=100),97.163,86.9
+2016-Q3,real house price index (2010=100),99.11,88.6
+2016-Q4,real house price index (2010=100),100.935,90.3
+2017-Q1,real house price index (2010=100),101.195,90.5
+2017-Q2,real house price index (2010=100),103.497,92.6
+2017-Q3,real house price index (2010=100),104.284,93.3
+2017-Q4,real house price index (2010=100),104.228,93.2
+2018-Q1,real house price index (2010=100),103.56,92.6
+2018-Q2,real house price index (2010=100),105.809,94.6
+2018-Q3,real house price index (2010=100),108.075,96.7
+2018-Q4,real house price index (2010=100),109.439,97.9
+2019-Q1,real house price index (2010=100),109.458,97.9
+2019-Q2,real house price index (2010=100),110.552,98.9
+2019-Q3,real house price index (2010=100),110.351,98.7
+2019-Q4,real house price index (2010=100),108.746,97.3
+2020-Q1,real house price index (2010=100),107.159,95.8
+2020-Q2,real house price index (2010=100),109.938,98.3
+2020-Q3,real house price index (2010=100),110.307,98.7
+2020-Q4,real house price index (2010=100),111.214,99.5
+2021-Q1,real house price index (2010=100),110.553,98.9
+2021-Q2,real house price index (2010=100),112.631,100.7
+2021-Q3,real house price index (2010=100),112.991,101.1
+2021-Q4,real house price index (2010=100),111.088,99.3
+2022-Q1,real house price index (2010=100),109.33,97.8
+2022-Q2,real house price index (2010=100),107.829,96.4
+2022-Q3,real house price index (2010=100),106.451,95.2
+2022-Q4,real house price index (2010=100),105.043,93.9
+2023-Q1,real house price index (2010=100),104.343,93.3
+2023-Q2,real house price index (2010=100),104.847,93.8
+2023-Q3,real house price index (2010=100),103.135,92.2
+2023-Q4,real house price index (2010=100),101.475,90.8
+2024-Q1,real house price index (2010=100),98.963,88.5
+2024-Q2,real house price index (2010=100),96.851,86.6
+2024-Q3,real house price index (2010=100),93.823,83.9
+2024-Q4,real house price index (2010=100),92.597,82.8
+2025-Q1,real house price index (2010=100),91.615,81.9
+2025-Q2,real house price index (2010=100),90.676,81.1
+2025-Q3,real house price index (2010=100),88.851,79.5
+2025-Q4,real house price index (2010=100),86.79,77.6
+2026-Q1,real house price index (2010=100),85.134,76.1
+2026-Q2,real house price index (2010=100),84.37,75.5
