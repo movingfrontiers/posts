@@ -1,0 +1,211 @@
+region,year,share_of_imports,share_of_exports,balance_bn
+East Asia and Pacific,1995,6.299,5.932,4.059
+East Asia and Pacific,1996,6.487,6.264,3.804
+East Asia and Pacific,1997,7.209,6.098,-3.456
+East Asia and Pacific,1998,7.917,6.24,4.08
+East Asia and Pacific,1999,8.271,6.786,4.393
+East Asia and Pacific,2000,8.806,7.656,8.05
+East Asia and Pacific,2001,10.158,8.801,8.242
+East Asia and Pacific,2002,11.78,10.884,22.114
+East Asia and Pacific,2003,12.761,13.379,51.814
+East Asia and Pacific,2004,13.851,14.444,61.478
+East Asia and Pacific,2005,14.687,15.387,69.266
+East Asia and Pacific,2006,15.2,15.594,70.065
+East Asia and Pacific,2007,15.869,17.113,107.066
+East Asia and Pacific,2008,15.241,16.611,89.856
+East Asia and Pacific,2009,16.828,18.38,96.376
+East Asia and Pacific,2010,16.999,19.511,144.644
+East Asia and Pacific,2011,17.018,19.803,148.149
+East Asia and Pacific,2012,17.012,18.728,86.324
+East Asia and Pacific,2013,17.573,20.042,107.138
+East Asia and Pacific,2014,18.625,20.294,95.436
+East Asia and Pacific,2015,21.463,19.391,23.855
+East Asia and Pacific,2016,21.935,19.224,15.468
+East Asia and Pacific,2017,21.097,21.209,134.265
+East Asia and Pacific,2018,21.353,21.104,86.065
+East Asia and Pacific,2019,22.436,21.279,63.024
+East Asia and Pacific,2020,24.699,22.872,77.827
+East Asia and Pacific,2021,23.818,23.417,138.037
+East Asia and Pacific,2022,22.723,20.216,9.351
+East Asia and Pacific,2023,23.595,20.11,-7.701
+East Asia and Pacific,2024,24.994,19.958,-63.575
+Europe and Central Asia,1995,1.725,1.197,-11.755
+Europe and Central Asia,1996,1.754,1.163,-13.997
+Europe and Central Asia,1997,1.969,1.102,-21.054
+Europe and Central Asia,1998,2.11,1.065,-27.144
+Europe and Central Asia,1999,2.321,1.205,-28.85
+Europe and Central Asia,2000,2.937,1.404,-42.63
+Europe and Central Asia,2001,3.142,1.606,-42.009
+Europe and Central Asia,2002,3.505,1.758,-49.831
+Europe and Central Asia,2003,4.107,2.005,-72.037
+Europe and Central Asia,2004,4.598,2.089,-104.138
+Europe and Central Asia,2005,5.278,2.041,-151.228
+Europe and Central Asia,2006,5.784,2.196,-196.214
+Europe and Central Asia,2007,6.626,2.299,-276.839
+Europe and Central Asia,2008,6.963,2.431,-328.996
+Europe and Central Asia,2009,7.45,3.057,-236.68
+Europe and Central Asia,2010,8.391,3.57,-293.283
+Europe and Central Asia,2011,7.932,3.934,-290.359
+Europe and Central Asia,2012,7.854,4.12,-255.51
+Europe and Central Asia,2013,7.984,4.297,-249.194
+Europe and Central Asia,2014,8.296,4.529,-257.485
+Europe and Central Asia,2015,8.948,4.391,-263.914
+Europe and Central Asia,2016,8.777,4.642,-246.049
+Europe and Central Asia,2017,8.76,4.87,-256.213
+Europe and Central Asia,2018,8.675,5.087,-255.024
+Europe and Central Asia,2019,9.16,5.342,-265.395
+Europe and Central Asia,2020,10.225,5.576,-306.625
+Europe and Central Asia,2021,10.374,5.649,-383.759
+Europe and Central Asia,2022,10.741,5.718,-474.967
+Europe and Central Asia,2023,11.177,6.053,-467.115
+Europe and Central Asia,2024,11.631,5.912,-499.9
+Latin America and Caribbean,1995,1.477,1.237,-0.659
+Latin America and Caribbean,1996,1.648,1.296,-1.116
+Latin America and Caribbean,1997,1.932,1.226,-2.756
+Latin America and Caribbean,1998,1.987,1.025,-3.924
+Latin America and Caribbean,1999,2.088,0.819,-4.527
+Latin America and Caribbean,2000,2.422,1.169,-5.152
+Latin America and Caribbean,2001,2.986,1.614,-5.665
+Latin America and Caribbean,2002,3.733,1.948,-6.219
+Latin America and Caribbean,2003,5.094,3.084,-6.122
+Latin America and Caribbean,2004,5.822,3.41,-8.895
+Latin America and Caribbean,2005,6.925,3.504,-16.185
+Latin America and Caribbean,2006,8.693,3.756,-28.709
+Latin America and Caribbean,2007,9.699,5.483,-27.3
+Latin America and Caribbean,2008,10.648,5.241,-49.142
+Latin America and Caribbean,2009,12.066,7.256,-31.816
+Latin America and Caribbean,2010,14.098,8.136,-53.262
+Latin America and Caribbean,2011,14.204,8.767,-56.979
+Latin America and Caribbean,2012,15.214,8.504,-76.187
+Latin America and Caribbean,2013,15.558,9.297,-72.537
+Latin America and Caribbean,2014,15.836,9.207,-76.154
+Latin America and Caribbean,2015,17.681,8.972,-93.902
+Latin America and Caribbean,2016,17.197,9.406,-70.953
+Latin America and Caribbean,2017,17.394,10.232,-69.751
+Latin America and Caribbean,2018,17.568,11.916,-59.664
+Latin America and Caribbean,2019,18.395,12.358,-59.729
+Latin America and Caribbean,2020,20.193,13.657,-43.902
+Latin America and Caribbean,2021,20.803,14.313,-70.496
+Latin America and Caribbean,2022,20.454,12.888,-102.091
+Latin America and Caribbean,2023,19.653,14.024,-63.623
+Latin America and Caribbean,2024,21.819,13.014,-107.222
+Middle East and North Africa,1995,2.56,1.425,-2.163
+Middle East and North Africa,1996,2.471,1.656,-1.312
+Middle East and North Africa,1997,2.705,1.911,-1.194
+Middle East and North Africa,1998,3.036,1.979,-2.924
+Middle East and North Africa,1999,3.449,1.896,-3.013
+Middle East and North Africa,2000,3.966,3.347,1.71
+Middle East and North Africa,2001,4.161,3.394,-0.274
+Middle East and North Africa,2002,5.072,3.649,-3.129
+Middle East and North Africa,2003,5.706,4.302,-2.353
+Middle East and North Africa,2004,6.082,4.875,-0.955
+Middle East and North Africa,2005,6.485,5.496,4.296
+Middle East and North Africa,2006,7.916,5.754,2.786
+Middle East and North Africa,2007,8.865,5.893,-6.49
+Middle East and North Africa,2008,9.349,6.909,4.351
+Middle East and North Africa,2009,10.517,8.044,-11.085
+Middle East and North Africa,2010,10.857,9.061,3.595
+Middle East and North Africa,2011,11.227,10.417,35.698
+Middle East and North Africa,2012,11.685,10.625,36.889
+Middle East and North Africa,2013,11.342,11.477,49.117
+Middle East and North Africa,2014,12.841,12.342,29.296
+Middle East and North Africa,2015,14.463,12.236,-33.952
+Middle East and North Africa,2016,14.416,11.049,-43.707
+Middle East and North Africa,2017,15.469,11.775,-45.97
+Middle East and North Africa,2018,14.575,13.589,9.704
+Middle East and North Africa,2019,15.68,14.936,1.022
+Middle East and North Africa,2020,17.147,15.297,-29.935
+Middle East and North Africa,2021,17.261,16.129,6.398
+Middle East and North Africa,2022,17.259,16.034,52.866
+Middle East and North Africa,2023,18.259,15.163,-12.131
+Middle East and North Africa,2024,20.68,16.085,-41.141
+North America,1995,5.326,2.289,-30.356
+North America,1996,5.596,2.136,-35.722
+North America,1997,5.986,1.856,-46.547
+North America,1998,6.517,1.945,-54.425
+North America,1999,7.018,2.065,-66.674
+North America,2000,7.034,2.268,-76.357
+North America,2001,7.814,2.85,-75.579
+North America,2002,9.728,3.2,-104.781
+North America,2003,10.944,3.742,-127.37
+North America,2004,12.021,4.342,-160.708
+North America,2005,12.94,4.351,-203.009
+North America,2006,13.974,4.714,-242.686
+North America,2007,15.131,5.032,-276.735
+North America,2008,14.965,5.063,-286.796
+North America,2009,17.589,6.465,-243.011
+North America,2010,17.972,7.016,-304.047
+North America,2011,17.145,7.126,-323.193
+North America,2012,17.625,7.403,-339.52
+North America,2013,18.316,8.21,-336.242
+North America,2014,18.942,8.091,-367.489
+North America,2015,20.078,8.661,-369.7
+North America,2016,19.705,8.298,-357.454
+North America,2017,20.367,8.682,-398.218
+North America,2018,20.422,8.122,-441.203
+North America,2019,17.701,6.907,-376.44
+North America,2020,18.739,8.6,-356.272
+North America,2021,18.396,8.787,-410.738
+North America,2022,16.897,7.577,-441.097
+North America,2023,14.018,7.598,-308.141
+North America,2024,13.709,7.617,-323.127
+South Asia,1995,3.677,1.145,-1.187
+South Asia,1996,3.453,1.743,-0.834
+South Asia,1997,4.02,2.018,-1.062
+South Asia,1998,4.158,1.731,-1.561
+South Asia,1999,3.66,1.599,-1.622
+South Asia,2000,4.844,2.058,-1.761
+South Asia,2001,5.663,2.517,-1.807
+South Asia,2002,6.235,3.2,-1.805
+South Asia,2003,6.695,4.913,-1.198
+South Asia,2004,8.158,6.672,-1.101
+South Asia,2005,9.648,6.823,-4.263
+South Asia,2006,9.422,6.451,-8.826
+South Asia,2007,10.611,6.61,-16.095
+South Asia,2008,9.511,6.798,-17.782
+South Asia,2009,10.841,5.998,-20.98
+South Asia,2010,11.017,7.439,-25.014
+South Asia,2011,10.942,6.295,-36.31
+South Asia,2012,11.089,5.446,-43.065
+South Asia,2013,11.429,5.179,-41.647
+South Asia,2014,13.001,4.716,-51.36
+South Asia,2015,15.525,4.175,-58.324
+South Asia,2016,17.495,3.826,-65.76
+South Asia,2017,16.698,4.814,-74.374
+South Asia,2018,15.194,5.388,-75.032
+South Asia,2019,15.901,5.155,-72.895
+South Asia,2020,17.547,6.418,-58.088
+South Asia,2021,17.196,5.868,-92.398
+South Asia,2022,16.045,3.292,-118.022
+South Asia,2023,19.876,3.733,-133.485
+South Asia,2024,19.365,3.515,-133.71
+Sub-Saharan Africa,1995,2.721,1.253,-0.652
+Sub-Saharan Africa,1996,2.775,1.382,-0.563
+Sub-Saharan Africa,1997,3.109,2.682,-0.043
+Sub-Saharan Africa,1998,3.914,1.306,-1.596
+Sub-Saharan Africa,1999,3.646,2.577,-0.494
+Sub-Saharan Africa,2000,4.163,5.122,2.335
+Sub-Saharan Africa,2001,4.752,4.589,0.89
+Sub-Saharan Africa,2002,5.056,4.495,0.404
+Sub-Saharan Africa,2003,6.587,6.355,1.255
+Sub-Saharan Africa,2004,7.46,7.446,2.658
+Sub-Saharan Africa,2005,8.111,8.399,4.391
+Sub-Saharan Africa,2006,9.358,10.156,7.168
+Sub-Saharan Africa,2007,10.024,10.652,7.719
+Sub-Saharan Africa,2008,10.809,11.492,12.246
+Sub-Saharan Africa,2009,11.6,11.551,0.098
+Sub-Saharan Africa,2010,13.001,13.333,6.874
+Sub-Saharan Africa,2011,13.196,13.279,11.443
+Sub-Saharan Africa,2012,13.927,12.777,5.748
+Sub-Saharan Africa,2013,14.602,14.417,6.553
+Sub-Saharan Africa,2014,16.302,15.296,-0.253
+Sub-Saharan Africa,2015,17.841,17.288,-3.97
+Sub-Saharan Africa,2016,17.36,15.066,-10.127
+Sub-Saharan Africa,2017,17.749,17.088,2.444
+Sub-Saharan Africa,2018,17.938,18.522,11.477
+Sub-Saharan Africa,2019,19.058,19.242,5.984
+Sub-Saharan Africa,2020,21.535,17.064,-15.749
+Sub-Saharan Africa,2021,20.467,17.436,-5.556
+Sub-Saharan Africa,2022,19.724,17.414,-3.063
+Sub-Saharan Africa,2023,20.9,18.058,-10.171
+Sub-Saharan Africa,2024,26.041,21.397,-11.804

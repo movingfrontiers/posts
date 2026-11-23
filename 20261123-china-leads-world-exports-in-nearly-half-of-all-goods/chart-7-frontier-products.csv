@@ -1,0 +1,745 @@
+product,revision,year,china_share,world_bn,china_bn
+Battery electric cars,HS17,2017,0.698,8.053,0.056
+Battery electric cars,HS17,2018,0.822,10.799,0.089
+Battery electric cars,HS17,2019,1.352,23.116,0.312
+Battery electric cars,HS17,2020,3.261,33.62,1.096
+Battery electric cars,HS17,2021,12.566,61.228,7.694
+Battery electric cars,HS17,2022,18.706,92.289,17.263
+Battery electric cars,HS17,2023,23.791,150.831,35.885
+Battery electric cars,HS17,2024,23.391,139.752,32.689
+Plug-in hybrid cars,HS17,2017,0.537,9.426,0.051
+Plug-in hybrid cars,HS17,2018,1.59,11.982,0.191
+Plug-in hybrid cars,HS17,2019,2.717,15.098,0.41
+Plug-in hybrid cars,HS17,2020,1.991,27.58,0.549
+Plug-in hybrid cars,HS17,2021,2.024,43.367,0.878
+Plug-in hybrid cars,HS17,2022,3.624,45.231,1.639
+Plug-in hybrid cars,HS17,2023,5.869,61.753,3.624
+Plug-in hybrid cars,HS17,2024,10.006,66.802,6.684
+All passenger cars,HS92,1995,0.027,234.586,0.064
+All passenger cars,HS92,1996,0.017,249.837,0.042
+All passenger cars,HS92,1997,0.023,263.285,0.06
+All passenger cars,HS92,1998,0.014,280.171,0.039
+All passenger cars,HS92,1999,0.008,300.459,0.024
+All passenger cars,HS92,2000,0.015,315.82,0.048
+All passenger cars,HS92,2001,0.017,324.4,0.056
+All passenger cars,HS92,2002,0.023,358.535,0.082
+All passenger cars,HS92,2003,0.038,406.906,0.154
+All passenger cars,HS92,2004,0.096,464.421,0.446
+All passenger cars,HS92,2005,0.167,495.306,0.829
+All passenger cars,HS92,2006,0.257,551.362,1.415
+All passenger cars,HS92,2007,0.342,632.234,2.159
+All passenger cars,HS92,2008,0.462,639.424,2.953
+All passenger cars,HS92,2009,0.407,451.561,1.84
+All passenger cars,HS92,2010,0.458,559.799,2.565
+All passenger cars,HS92,2011,0.494,640.0,3.162
+All passenger cars,HS92,2012,0.72,657.626,4.734
+All passenger cars,HS92,2013,0.57,678.537,3.866
+All passenger cars,HS92,2014,0.482,706.924,3.407
+All passenger cars,HS92,2015,0.507,684.979,3.47
+All passenger cars,HS92,2016,0.527,705.187,3.716
+All passenger cars,HS92,2017,0.687,759.508,5.219
+All passenger cars,HS92,2018,0.901,777.597,7.008
+All passenger cars,HS92,2019,1.072,776.496,8.323
+All passenger cars,HS92,2020,1.359,653.973,8.889
+All passenger cars,HS92,2021,2.912,731.338,21.297
+All passenger cars,HS92,2022,4.968,796.519,39.571
+All passenger cars,HS92,2023,7.862,985.179,77.451
+All passenger cars,HS92,2024,9.13,961.037,87.74
+Lithium-ion batteries,HS12,2012,35.663,10.098,3.601
+Lithium-ion batteries,HS12,2013,34.821,10.791,3.758
+Lithium-ion batteries,HS12,2014,35.528,12.228,4.344
+Lithium-ion batteries,HS12,2015,37.049,13.016,4.822
+Lithium-ion batteries,HS12,2016,35.417,15.147,5.365
+Lithium-ion batteries,HS12,2017,35.587,19.702,7.011
+Lithium-ion batteries,HS12,2018,39.126,26.047,10.191
+Lithium-ion batteries,HS12,2019,41.563,30.931,12.856
+Lithium-ion batteries,HS12,2020,40.005,40.304,16.124
+Lithium-ion batteries,HS12,2021,45.641,63.238,28.863
+Lithium-ion batteries,HS12,2022,55.067,97.914,53.918
+Lithium-ion batteries,HS12,2023,57.754,127.426,73.593
+Lithium-ion batteries,HS12,2024,58.592,118.461,69.408
+Solar cells and modules,HS92,1995,3.733,3.137,0.117
+Solar cells and modules,HS92,1996,4.813,3.489,0.168
+Solar cells and modules,HS92,1997,5.632,3.924,0.221
+Solar cells and modules,HS92,1998,5.159,4.137,0.213
+Solar cells and modules,HS92,1999,5.876,4.818,0.283
+Solar cells and modules,HS92,2000,4.651,6.942,0.323
+Solar cells and modules,HS92,2001,6.134,6.696,0.411
+Solar cells and modules,HS92,2002,8.523,6.898,0.588
+Solar cells and modules,HS92,2003,9.878,9.211,0.91
+Solar cells and modules,HS92,2004,9.548,12.405,1.184
+Solar cells and modules,HS92,2005,12.36,15.528,1.919
+Solar cells and modules,HS92,2006,17.129,19.501,3.34
+Solar cells and modules,HS92,2007,22.255,25.713,5.723
+Solar cells and modules,HS92,2008,29.501,41.793,12.329
+Solar cells and modules,HS92,2009,28.297,38.014,10.757
+Solar cells and modules,HS92,2010,36.024,70.256,25.309
+Solar cells and modules,HS92,2011,39.057,74.667,29.163
+Solar cells and modules,HS92,2012,37.603,54.617,20.538
+Solar cells and modules,HS92,2013,34.895,50.634,17.669
+Solar cells and modules,HS92,2014,35.268,53.022,18.699
+Solar cells and modules,HS92,2015,35.882,52.946,18.998
+Solar cells and modules,HS92,2016,35.019,52.838,18.504
+Solar cells and modules,HS92,2017,34.024,52.655,17.915
+Solar cells and modules,HS92,2018,35.788,51.012,18.256
+Solar cells and modules,HS92,2019,42.006,55.275,23.219
+Solar cells and modules,HS92,2020,41.195,56.756,23.381
+Solar cells and modules,HS92,2021,45.118,69.971,31.57
+Solar cells and modules,HS92,2022,48.813,88.343,43.123
+Solar cells and modules,HS92,2023,46.827,97.833,45.812
+Solar cells and modules,HS92,2024,45.793,78.075,35.753
+Mobile phones,HS12,2012,52.464,222.165,116.558
+Mobile phones,HS12,2013,57.919,244.934,141.864
+Mobile phones,HS12,2014,63.277,256.752,162.464
+Mobile phones,HS12,2015,65.043,258.632,168.222
+Mobile phones,HS12,2016,65.518,245.879,161.096
+Mobile phones,HS12,2017,65.824,287.062,188.955
+Mobile phones,HS12,2018,66.649,289.905,193.22
+Mobile phones,HS12,2019,64.02,281.187,180.014
+Mobile phones,HS12,2020,63.761,273.222,174.208
+Mobile phones,HS12,2021,65.518,320.783,210.17
+Mobile phones,HS12,2022,60.6,386.445,234.188
+Mobile phones,HS12,2023,59.052,419.713,247.85
+Mobile phones,HS12,2024,55.646,404.51,225.094
+Portable computers,HS12,2012,80.657,168.998,136.309
+Portable computers,HS12,2013,79.311,153.432,121.689
+Portable computers,HS12,2014,77.791,153.732,119.589
+Portable computers,HS12,2015,79.598,139.722,111.217
+Portable computers,HS12,2016,78.366,124.201,97.331
+Portable computers,HS12,2017,77.554,144.113,111.766
+Portable computers,HS12,2018,78.328,144.913,113.508
+Portable computers,HS12,2019,78.088,146.281,114.228
+Portable computers,HS12,2020,77.563,184.402,143.029
+Portable computers,HS12,2021,78.271,217.341,170.116
+Portable computers,HS12,2022,78.083,200.908,156.874
+Portable computers,HS12,2023,75.359,165.158,124.462
+Portable computers,HS12,2024,69.365,176.093,122.147
+Industrial robots,HS12,2012,3.971,3.663,0.145
+Industrial robots,HS12,2013,4.078,3.776,0.154
+Industrial robots,HS12,2014,3.846,4.08,0.157
+Industrial robots,HS12,2015,4.585,4.402,0.202
+Industrial robots,HS12,2016,5.124,4.233,0.217
+Industrial robots,HS12,2017,5.021,5.477,0.275
+Industrial robots,HS12,2018,5.708,6.098,0.348
+Industrial robots,HS12,2019,6.426,5.577,0.358
+Industrial robots,HS12,2020,6.209,5.141,0.319
+Industrial robots,HS12,2021,7.644,6.147,0.47
+Industrial robots,HS12,2022,8.449,6.091,0.515
+Industrial robots,HS12,2023,9.001,6.463,0.582
+Industrial robots,HS12,2024,12.552,5.619,0.705
+Integrated circuits,HS92,1995,0.371,151.918,0.563
+Integrated circuits,HS92,1996,0.473,150.804,0.713
+Integrated circuits,HS92,1997,0.647,162.256,1.05
+Integrated circuits,HS92,1998,0.813,155.389,1.264
+Integrated circuits,HS92,1999,1.298,183.232,2.379
+Integrated circuits,HS92,2000,1.247,236.764,2.953
+Integrated circuits,HS92,2001,1.582,194.705,3.08
+Integrated circuits,HS92,2002,2.373,201.156,4.773
+Integrated circuits,HS92,2003,3.252,237.224,7.714
+Integrated circuits,HS92,2004,4.599,284.155,13.069
+Integrated circuits,HS92,2005,5.864,302.803,17.756
+Integrated circuits,HS92,2006,7.019,337.529,23.693
+Integrated circuits,HS92,2007,6.204,434.302,26.943
+Integrated circuits,HS92,2008,6.866,414.717,28.474
+Integrated circuits,HS92,2009,8.683,340.619,29.577
+Integrated circuits,HS92,2010,8.877,425.042,37.729
+Integrated circuits,HS92,2011,9.12,430.445,39.255
+Integrated circuits,HS92,2012,10.535,405.769,42.746
+Integrated circuits,HS92,2013,10.745,457.843,49.195
+Integrated circuits,HS92,2014,12.483,465.648,58.128
+Integrated circuits,HS92,2015,13.654,477.601,65.212
+Integrated circuits,HS92,2016,13.232,507.067,67.095
+Integrated circuits,HS92,2017,11.174,749.957,83.799
+Integrated circuits,HS92,2018,13.496,711.252,95.993
+Integrated circuits,HS92,2019,14.95,690.725,103.26
+Integrated circuits,HS92,2020,14.634,759.154,111.096
+Integrated circuits,HS92,2021,16.108,921.967,148.508
+Integrated circuits,HS92,2022,16.16,1033.728,167.054
+Integrated circuits,HS92,2023,16.959,899.816,152.596
+Integrated circuits,HS92,2024,17.682,995.84,176.087
+Machine tools,HS92,1995,1.446,23.386,0.338
+Machine tools,HS92,1996,1.358,26.554,0.361
+Machine tools,HS92,1997,1.422,25.183,0.358
+Machine tools,HS92,1998,1.282,25.707,0.33
+Machine tools,HS92,1999,1.305,24.333,0.317
+Machine tools,HS92,2000,1.393,27.157,0.378
+Machine tools,HS92,2001,1.476,26.004,0.384
+Machine tools,HS92,2002,1.669,23.529,0.393
+Machine tools,HS92,2003,1.761,26.62,0.469
+Machine tools,HS92,2004,1.933,33.718,0.652
+Machine tools,HS92,2005,2.383,38.607,0.92
+Machine tools,HS92,2006,2.919,44.464,1.298
+Machine tools,HS92,2007,3.948,47.499,1.875
+Machine tools,HS92,2008,4.669,53.602,2.503
+Machine tools,HS92,2009,5.149,32.907,1.694
+Machine tools,HS92,2010,5.645,38.128,2.152
+Machine tools,HS92,2011,5.295,52.829,2.797
+Machine tools,HS92,2012,5.717,59.542,3.404
+Machine tools,HS92,2013,5.731,54.978,3.151
+Machine tools,HS92,2014,5.977,57.934,3.463
+Machine tools,HS92,2015,6.428,52.398,3.368
+Machine tools,HS92,2016,6.491,50.081,3.251
+Machine tools,HS92,2017,7.322,46.618,3.413
+Machine tools,HS92,2018,7.997,52.135,4.169
+Machine tools,HS92,2019,9.671,46.823,4.528
+Machine tools,HS92,2020,11.259,36.283,4.085
+Machine tools,HS92,2021,12.145,43.611,5.297
+Machine tools,HS92,2022,14.519,44.674,6.486
+Machine tools,HS92,2023,15.653,48.81,7.641
+Machine tools,HS92,2024,17.927,45.387,8.136
+Excavators,HS92,1995,0.191,5.502,0.011
+Excavators,HS92,1996,0.479,5.36,0.026
+Excavators,HS92,1997,0.497,5.604,0.028
+Excavators,HS92,1998,0.143,5.85,0.008
+Excavators,HS92,1999,0.184,5.698,0.01
+Excavators,HS92,2000,0.232,5.975,0.014
+Excavators,HS92,2001,0.762,5.887,0.045
+Excavators,HS92,2002,0.272,6.632,0.018
+Excavators,HS92,2003,0.276,9.86,0.027
+Excavators,HS92,2004,1.016,12.314,0.125
+Excavators,HS92,2005,1.158,14.447,0.167
+Excavators,HS92,2006,2.172,18.598,0.404
+Excavators,HS92,2007,1.836,21.76,0.399
+Excavators,HS92,2008,2.113,23.839,0.504
+Excavators,HS92,2009,2.163,11.8,0.255
+Excavators,HS92,2010,1.793,18.384,0.33
+Excavators,HS92,2011,2.667,24.498,0.653
+Excavators,HS92,2012,4.073,25.486,1.038
+Excavators,HS92,2013,5.124,20.394,1.045
+Excavators,HS92,2014,4.709,19.825,0.934
+Excavators,HS92,2015,5.976,16.811,1.005
+Excavators,HS92,2016,5.968,16.896,1.008
+Excavators,HS92,2017,6.521,20.681,1.348
+Excavators,HS92,2018,8.111,25.162,2.041
+Excavators,HS92,2019,9.907,23.595,2.338
+Excavators,HS92,2020,11.718,19.139,2.243
+Excavators,HS92,2021,16.426,27.516,4.52
+Excavators,HS92,2022,23.423,32.978,7.724
+Excavators,HS92,2023,23.26,36.513,8.493
+Excavators,HS92,2024,28.362,28.754,8.155
+Ships,HS92,1995,1.262,29.032,0.367
+Ships,HS92,1996,2.374,31.993,0.76
+Ships,HS92,1997,4.515,29.195,1.318
+Ships,HS92,1998,4.666,32.939,1.537
+Ships,HS92,1999,3.791,29.474,1.117
+Ships,HS92,2000,2.946,30.339,0.894
+Ships,HS92,2001,2.853,30.812,0.879
+Ships,HS92,2002,3.34,36.119,1.206
+Ships,HS92,2003,4.666,42.672,1.991
+Ships,HS92,2004,4.938,50.242,2.481
+Ships,HS92,2005,5.597,55.81,3.124
+Ships,HS92,2006,6.846,71.628,4.904
+Ships,HS92,2007,9.273,78.168,7.249
+Ships,HS92,2008,11.645,109.899,12.798
+Ships,HS92,2009,15.415,106.878,16.475
+Ships,HS92,2010,19.667,122.507,24.093
+Ships,HS92,2011,20.044,122.324,24.518
+Ships,HS92,2012,17.878,103.618,18.525
+Ships,HS92,2013,16.038,85.297,13.68
+Ships,HS92,2014,13.283,81.65,10.845
+Ships,HS92,2015,19.232,83.607,16.08
+Ships,HS92,2016,22.443,82.193,18.447
+Ships,HS92,2017,16.726,77.423,12.95
+Ships,HS92,2018,13.098,71.908,9.418
+Ships,HS92,2019,19.974,72.815,14.544
+Ships,HS92,2020,15.513,60.615,9.403
+Ships,HS92,2021,18.254,72.294,13.196
+Ships,HS92,2022,22.197,64.258,14.263
+Ships,HS92,2023,22.716,78.951,17.935
+Ships,HS92,2024,31.036,85.311,26.477
+Wind turbines,HS12,2012,8.036,7.249,0.583
+Wind turbines,HS12,2013,21.273,8.042,1.711
+Wind turbines,HS12,2014,12.363,7.27,0.899
+Wind turbines,HS12,2015,10.105,6.399,0.647
+Wind turbines,HS12,2016,20.344,6.42,1.306
+Wind turbines,HS12,2017,13.287,5.307,0.705
+Wind turbines,HS12,2018,11.84,6.125,0.725
+Wind turbines,HS12,2019,21.801,7.543,1.644
+Wind turbines,HS12,2020,24.408,9.232,2.253
+Wind turbines,HS12,2021,29.253,8.85,2.589
+Wind turbines,HS12,2022,39.409,6.573,2.59
+Wind turbines,HS12,2023,34.297,7.096,2.434
+Wind turbines,HS12,2024,36.015,6.643,2.393
+Electric motors and generators,HS92,1995,10.626,16.495,1.753
+Electric motors and generators,HS92,1996,10.153,17.526,1.779
+Electric motors and generators,HS92,1997,12.025,18.171,2.185
+Electric motors and generators,HS92,1998,12.328,19.005,2.343
+Electric motors and generators,HS92,1999,13.054,19.326,2.523
+Electric motors and generators,HS92,2000,14.719,20.649,3.039
+Electric motors and generators,HS92,2001,13.853,20.367,2.821
+Electric motors and generators,HS92,2002,15.355,21.696,3.332
+Electric motors and generators,HS92,2003,14.813,24.072,3.566
+Electric motors and generators,HS92,2004,15.348,26.873,4.125
+Electric motors and generators,HS92,2005,16.056,29.638,4.759
+Electric motors and generators,HS92,2006,16.991,34.251,5.819
+Electric motors and generators,HS92,2007,17.899,39.739,7.113
+Electric motors and generators,HS92,2008,17.584,45.218,7.951
+Electric motors and generators,HS92,2009,17.78,35.25,6.267
+Electric motors and generators,HS92,2010,20.676,42.761,8.841
+Electric motors and generators,HS92,2011,20.704,49.512,10.251
+Electric motors and generators,HS92,2012,21.376,50.698,10.837
+Electric motors and generators,HS92,2013,22.378,50.685,11.342
+Electric motors and generators,HS92,2014,23.07,53.766,12.404
+Electric motors and generators,HS92,2015,25.057,50.751,12.717
+Electric motors and generators,HS92,2016,24.406,50.012,12.206
+Electric motors and generators,HS92,2017,24.008,53.732,12.9
+Electric motors and generators,HS92,2018,25.154,59.727,15.024
+Electric motors and generators,HS92,2019,24.171,59.125,14.291
+Electric motors and generators,HS92,2020,24.405,55.318,13.501
+Electric motors and generators,HS92,2021,26.682,66.661,17.786
+Electric motors and generators,HS92,2022,27.152,72.475,19.678
+Electric motors and generators,HS92,2023,24.869,73.437,18.263
+Electric motors and generators,HS92,2024,25.03,73.69,18.444
+Transformers and converters,HS92,1995,10.875,23.675,2.575
+Transformers and converters,HS92,1996,12.251,27.827,3.409
+Transformers and converters,HS92,1997,14.079,31.94,4.497
+Transformers and converters,HS92,1998,15.715,32.346,5.083
+Transformers and converters,HS92,1999,17.855,34.169,6.101
+Transformers and converters,HS92,2000,19.661,40.772,8.016
+Transformers and converters,HS92,2001,19.186,36.502,7.003
+Transformers and converters,HS92,2002,22.492,35.297,7.939
+Transformers and converters,HS92,2003,23.777,38.52,9.159
+Transformers and converters,HS92,2004,24.973,44.506,11.114
+Transformers and converters,HS92,2005,27.715,49.131,13.617
+Transformers and converters,HS92,2006,28.982,57.751,16.737
+Transformers and converters,HS92,2007,29.423,69.779,20.531
+Transformers and converters,HS92,2008,28.943,79.86,23.113
+Transformers and converters,HS92,2009,29.449,67.442,19.861
+Transformers and converters,HS92,2010,32.2,84.749,27.289
+Transformers and converters,HS92,2011,32.081,91.682,29.413
+Transformers and converters,HS92,2012,32.926,89.18,29.363
+Transformers and converters,HS92,2013,34.708,90.041,31.251
+Transformers and converters,HS92,2014,34.398,92.051,31.663
+Transformers and converters,HS92,2015,35.748,86.218,30.821
+Transformers and converters,HS92,2016,34.863,85.539,29.822
+Transformers and converters,HS92,2017,35.41,90.491,32.043
+Transformers and converters,HS92,2018,35.556,96.339,34.254
+Transformers and converters,HS92,2019,35.67,96.723,34.501
+Transformers and converters,HS92,2020,36.125,100.625,36.35
+Transformers and converters,HS92,2021,37.322,122.053,45.553
+Transformers and converters,HS92,2022,37.63,138.183,51.998
+Transformers and converters,HS92,2023,34.864,153.706,53.588
+Transformers and converters,HS92,2024,34.646,151.936,52.64
+Steel,HS92,1995,3.657,148.696,5.438
+Steel,HS92,1996,2.675,141.035,3.772
+Steel,HS92,1997,3.316,142.962,4.741
+Steel,HS92,1998,2.248,140.339,3.154
+Steel,HS92,1999,2.123,122.635,2.604
+Steel,HS92,2000,3.031,142.685,4.325
+Steel,HS92,2001,1.926,129.535,2.495
+Steel,HS92,2002,1.885,141.173,2.661
+Steel,HS92,2003,2.089,184.165,3.848
+Steel,HS92,2004,4.212,278.856,11.746
+Steel,HS92,2005,5.241,313.728,16.443
+Steel,HS92,2006,7.164,354.929,25.427
+Steel,HS92,2007,9.64,456.551,44.011
+Steel,HS92,2008,9.977,556.775,55.548
+Steel,HS92,2009,5.189,299.511,15.542
+Steel,HS92,2010,7.244,406.735,29.463
+Steel,HS92,2011,7.837,494.005,38.713
+Steel,HS92,2012,8.592,444.143,38.162
+Steel,HS92,2013,9.84,414.221,40.758
+Steel,HS92,2014,13.251,434.243,57.543
+Steel,HS92,2015,15.421,354.026,54.594
+Steel,HS92,2016,14.961,324.71,48.579
+Steel,HS92,2017,11.679,396.3,46.282
+Steel,HS92,2018,10.782,446.423,48.132
+Steel,HS92,2019,10.363,395.964,41.035
+Steel,HS92,2020,9.506,348.049,33.084
+Steel,HS92,2021,10.041,552.647,55.493
+Steel,HS92,2022,11.363,576.424,65.496
+Steel,HS92,2023,13.442,484.721,65.155
+Steel,HS92,2024,15.775,448.478,70.749
+Garments,HS92,1995,20.128,163.88,32.986
+Garments,HS92,1996,20.721,171.577,35.552
+Garments,HS92,1997,21.108,185.769,39.212
+Garments,HS92,1998,19.756,188.893,37.318
+Garments,HS92,1999,21.333,192.588,41.086
+Garments,HS92,2000,22.741,205.469,46.725
+Garments,HS92,2001,23.486,206.876,48.587
+Garments,HS92,2002,23.953,216.752,51.918
+Garments,HS92,2003,25.17,241.759,60.851
+Garments,HS92,2004,26.529,265.82,70.519
+Garments,HS92,2005,31.741,283.697,90.049
+Garments,HS92,2006,33.465,310.523,103.917
+Garments,HS92,2007,35.637,340.608,121.382
+Garments,HS92,2008,37.354,362.774,135.512
+Garments,HS92,2009,39.81,325.071,129.412
+Garments,HS92,2010,42.094,353.195,148.675
+Garments,HS92,2011,40.834,402.414,164.321
+Garments,HS92,2012,40.635,387.796,157.582
+Garments,HS92,2013,39.041,404.243,157.819
+Garments,HS92,2014,37.7,422.178,159.16
+Garments,HS92,2015,36.903,408.658,150.808
+Garments,HS92,2016,34.644,400.444,138.73
+Garments,HS92,2017,33.612,416.456,139.98
+Garments,HS92,2018,32.215,441.455,142.213
+Garments,HS92,2019,30.466,440.81,134.299
+Garments,HS92,2020,30.144,389.798,117.502
+Garments,HS92,2021,28.868,451.597,130.366
+Garments,HS92,2022,28.5,508.438,144.904
+Garments,HS92,2023,28.625,468.086,133.99
+Garments,HS92,2024,28.199,467.023,131.694
+Medicines,HS92,1995,0.513,42.898,0.22
+Medicines,HS92,1996,0.462,46.286,0.214
+Medicines,HS92,1997,0.381,52.959,0.202
+Medicines,HS92,1998,0.336,62.387,0.21
+Medicines,HS92,1999,0.283,71.968,0.204
+Medicines,HS92,2000,0.306,74.213,0.227
+Medicines,HS92,2001,0.27,93.365,0.252
+Medicines,HS92,2002,0.211,123.787,0.261
+Medicines,HS92,2003,0.203,149.299,0.303
+Medicines,HS92,2004,0.193,177.606,0.342
+Medicines,HS92,2005,0.223,200.71,0.448
+Medicines,HS92,2006,0.221,227.484,0.503
+Medicines,HS92,2007,0.297,261.198,0.776
+Medicines,HS92,2008,0.337,296.978,1.001
+Medicines,HS92,2009,0.313,305.024,0.955
+Medicines,HS92,2010,0.405,287.665,1.165
+Medicines,HS92,2011,0.496,319.908,1.588
+Medicines,HS92,2012,0.569,317.465,1.805
+Medicines,HS92,2013,0.595,321.13,1.911
+Medicines,HS92,2014,0.654,336.177,2.199
+Medicines,HS92,2015,0.663,327.292,2.169
+Medicines,HS92,2016,0.741,336.969,2.498
+Medicines,HS92,2017,0.817,347.354,2.84
+Medicines,HS92,2018,0.957,369.37,3.533
+Medicines,HS92,2019,0.915,391.015,3.578
+Medicines,HS92,2020,0.984,418.762,4.119
+Medicines,HS92,2021,1.147,437.895,5.024
+Medicines,HS92,2022,2.473,467.932,11.57
+Medicines,HS92,2023,1.148,469.261,5.389
+Medicines,HS92,2024,2.293,484.981,11.123
+Aircraft,HS92,1995,0.266,46.048,0.123
+Aircraft,HS92,1996,0.296,47.467,0.141
+Aircraft,HS92,1997,0.211,55.426,0.117
+Aircraft,HS92,1998,0.252,71.272,0.18
+Aircraft,HS92,1999,0.371,76.656,0.284
+Aircraft,HS92,2000,0.222,76.421,0.17
+Aircraft,HS92,2001,0.075,79.869,0.06
+Aircraft,HS92,2002,0.026,76.123,0.02
+Aircraft,HS92,2003,0.062,78.14,0.048
+Aircraft,HS92,2004,0.121,88.01,0.106
+Aircraft,HS92,2005,0.101,88.724,0.09
+Aircraft,HS92,2006,0.279,121.705,0.34
+Aircraft,HS92,2007,0.282,124.332,0.351
+Aircraft,HS92,2008,0.412,138.602,0.571
+Aircraft,HS92,2009,0.103,120.653,0.124
+Aircraft,HS92,2010,0.33,125.87,0.415
+Aircraft,HS92,2011,0.442,136.278,0.603
+Aircraft,HS92,2012,0.147,161.118,0.236
+Aircraft,HS92,2013,0.437,170.966,0.748
+Aircraft,HS92,2014,0.582,192.779,1.122
+Aircraft,HS92,2015,0.897,190.309,1.707
+Aircraft,HS92,2016,0.724,193.297,1.4
+Aircraft,HS92,2017,0.494,181.014,0.894
+Aircraft,HS92,2018,1.42,174.477,2.478
+Aircraft,HS92,2019,1.26,170.306,2.145
+Aircraft,HS92,2020,1.546,115.303,1.783
+Aircraft,HS92,2021,0.904,119.179,1.077
+Aircraft,HS92,2022,0.563,118.402,0.667
+Aircraft,HS92,2023,1.561,145.939,2.278
+Aircraft,HS92,2024,1.747,155.376,2.715
+Trucks and buses,HS92,1995,0.251,48.579,0.122
+Trucks and buses,HS92,1996,0.219,52.683,0.115
+Trucks and buses,HS92,1997,0.306,57.788,0.177
+Trucks and buses,HS92,1998,0.199,60.08,0.12
+Trucks and buses,HS92,1999,0.134,60.71,0.081
+Trucks and buses,HS92,2000,0.171,64.507,0.11
+Trucks and buses,HS92,2001,0.219,64.125,0.14
+Trucks and buses,HS92,2002,0.213,69.517,0.148
+Trucks and buses,HS92,2003,0.322,78.08,0.252
+Trucks and buses,HS92,2004,0.526,91.3,0.48
+Trucks and buses,HS92,2005,0.902,102.738,0.927
+Trucks and buses,HS92,2006,1.446,116.619,1.686
+Trucks and buses,HS92,2007,2.411,142.19,3.428
+Trucks and buses,HS92,2008,3.221,149.255,4.808
+Trucks and buses,HS92,2009,3.14,91.16,2.862
+Trucks and buses,HS92,2010,3.108,117.981,3.667
+Trucks and buses,HS92,2011,3.802,139.638,5.308
+Trucks and buses,HS92,2012,4.629,151.355,7.006
+Trucks and buses,HS92,2013,4.484,146.092,6.551
+Trucks and buses,HS92,2014,4.663,146.989,6.854
+Trucks and buses,HS92,2015,4.654,139.899,6.511
+Trucks and buses,HS92,2016,3.625,141.332,5.123
+Trucks and buses,HS92,2017,3.56,155.466,5.534
+Trucks and buses,HS92,2018,3.379,165.41,5.588
+Trucks and buses,HS92,2019,3.713,165.029,6.127
+Trucks and buses,HS92,2020,3.914,133.436,5.222
+Trucks and buses,HS92,2021,5.631,163.361,9.198
+Trucks and buses,HS92,2022,7.291,176.965,12.902
+Trucks and buses,HS92,2023,7.63,222.281,16.959
+Trucks and buses,HS92,2024,8.895,211.092,18.777
+Car parts,HS92,1995,0.315,109.828,0.346
+Car parts,HS92,1996,0.327,116.728,0.381
+Car parts,HS92,1997,0.395,120.849,0.477
+Car parts,HS92,1998,0.406,125.966,0.512
+Car parts,HS92,1999,0.533,135.667,0.724
+Car parts,HS92,2000,0.678,145.202,0.984
+Car parts,HS92,2001,0.852,139.278,1.187
+Car parts,HS92,2002,1.162,155.091,1.803
+Car parts,HS92,2003,1.287,180.915,2.329
+Car parts,HS92,2004,1.77,212.716,3.765
+Car parts,HS92,2005,2.233,231.363,5.166
+Car parts,HS92,2006,2.99,256.25,7.663
+Car parts,HS92,2007,3.719,289.007,10.748
+Car parts,HS92,2008,4.363,303.794,13.253
+Car parts,HS92,2009,4.905,223.174,10.947
+Car parts,HS92,2010,5.616,288.23,16.187
+Car parts,HS92,2011,6.051,334.028,20.212
+Car parts,HS92,2012,6.454,346.46,22.36
+Car parts,HS92,2013,6.924,361.866,25.055
+Car parts,HS92,2014,7.392,374.01,27.648
+Car parts,HS92,2015,7.978,352.926,28.155
+Car parts,HS92,2016,7.791,361.306,28.15
+Car parts,HS92,2017,8.047,392.71,31.602
+Car parts,HS92,2018,8.33,420.896,35.063
+Car parts,HS92,2019,8.315,401.522,33.388
+Car parts,HS92,2020,8.87,342.947,30.419
+Car parts,HS92,2021,10.156,403.54,40.984
+Car parts,HS92,2022,11.179,423.832,47.38
+Car parts,HS92,2023,10.622,452.991,48.118
+Car parts,HS92,2024,12.114,444.044,53.79
+Railway equipment,HS92,1995,4.388,9.704,0.426
+Railway equipment,HS92,1996,3.813,9.598,0.366
+Railway equipment,HS92,1997,4.838,10.47,0.507
+Railway equipment,HS92,1998,5.196,12.625,0.656
+Railway equipment,HS92,1999,4.695,11.728,0.551
+Railway equipment,HS92,2000,5.517,10.923,0.603
+Railway equipment,HS92,2001,4.146,11.687,0.485
+Railway equipment,HS92,2002,4.632,11.173,0.518
+Railway equipment,HS92,2003,4.758,15.28,0.727
+Railway equipment,HS92,2004,5.199,20.411,1.061
+Railway equipment,HS92,2005,7.562,20.198,1.527
+Railway equipment,HS92,2006,7.8,22.368,1.745
+Railway equipment,HS92,2007,7.714,26.289,2.028
+Railway equipment,HS92,2008,7.673,31.37,2.407
+Railway equipment,HS92,2009,6.175,27.325,1.687
+Railway equipment,HS92,2010,9.568,29.547,2.827
+Railway equipment,HS92,2011,13.954,36.636,5.112
+Railway equipment,HS92,2012,18.832,41.398,7.796
+Railway equipment,HS92,2013,14.319,35.425,5.073
+Railway equipment,HS92,2014,21.477,40.234,8.641
+Railway equipment,HS92,2015,20.962,34.24,7.177
+Railway equipment,HS92,2016,15.536,29.915,4.648
+Railway equipment,HS92,2017,14.476,33.538,4.855
+Railway equipment,HS92,2018,15.948,32.315,5.153
+Railway equipment,HS92,2019,13.417,37.319,5.007
+Railway equipment,HS92,2020,14.534,30.544,4.439
+Railway equipment,HS92,2021,19.04,36.902,7.026
+Railway equipment,HS92,2022,22.909,34.767,7.965
+Railway equipment,HS92,2023,19.241,37.088,7.136
+Railway equipment,HS92,2024,17.995,41.092,7.395
+Medical instruments,HS92,1995,0.888,21.99,0.195
+Medical instruments,HS92,1996,1.131,24.506,0.277
+Medical instruments,HS92,1997,1.039,25.305,0.263
+Medical instruments,HS92,1998,0.976,27.137,0.265
+Medical instruments,HS92,1999,1.3,29.283,0.381
+Medical instruments,HS92,2000,1.353,30.87,0.418
+Medical instruments,HS92,2001,1.398,34.075,0.477
+Medical instruments,HS92,2002,1.527,37.051,0.566
+Medical instruments,HS92,2003,1.84,43.257,0.796
+Medical instruments,HS92,2004,2.337,51.62,1.206
+Medical instruments,HS92,2005,2.628,59.107,1.553
+Medical instruments,HS92,2006,2.898,64.453,1.868
+Medical instruments,HS92,2007,3.262,70.523,2.3
+Medical instruments,HS92,2008,3.862,81.679,3.154
+Medical instruments,HS92,2009,4.415,77.753,3.433
+Medical instruments,HS92,2010,5.114,83.718,4.281
+Medical instruments,HS92,2011,5.42,93.078,5.045
+Medical instruments,HS92,2012,5.796,97.112,5.629
+Medical instruments,HS92,2013,6.017,101.655,6.116
+Medical instruments,HS92,2014,6.204,106.788,6.625
+Medical instruments,HS92,2015,6.49,103.359,6.708
+Medical instruments,HS92,2016,6.462,109.492,7.075
+Medical instruments,HS92,2017,6.687,114.151,7.633
+Medical instruments,HS92,2018,6.654,124.786,8.304
+Medical instruments,HS92,2019,6.75,132.137,8.92
+Medical instruments,HS92,2020,8.384,134.278,11.258
+Medical instruments,HS92,2021,8.169,151.681,12.391
+Medical instruments,HS92,2022,8.496,155.463,13.209
+Medical instruments,HS92,2023,7.474,167.615,12.527
+Medical instruments,HS92,2024,7.806,174.598,13.63
+Drones,HS22,2022,58.21,2.642,1.538
+Drones,HS22,2023,44.743,4.269,1.91
+Drones,HS22,2024,48.94,6.649,3.254
+Tyres,HS92,1995,2.156,21.485,0.463
+Tyres,HS92,1996,2.138,23.137,0.495
+Tyres,HS92,1997,2.347,23.219,0.545
+Tyres,HS92,1998,2.411,24.491,0.59
+Tyres,HS92,1999,2.956,25.053,0.741
+Tyres,HS92,2000,4.031,24.797,1.0
+Tyres,HS92,2001,4.306,24.156,1.04
+Tyres,HS92,2002,4.944,26.477,1.309
+Tyres,HS92,2003,5.542,31.007,1.718
+Tyres,HS92,2004,6.884,37.523,2.583
+Tyres,HS92,2005,9.145,43.148,3.946
+Tyres,HS92,2006,10.691,49.159,5.255
+Tyres,HS92,2007,12.207,59.412,7.253
+Tyres,HS92,2008,12.632,65.713,8.301
+Tyres,HS92,2009,13.759,55.539,7.642
+Tyres,HS92,2010,15.161,68.341,10.361
+Tyres,HS92,2011,16.25,87.426,14.206
+Tyres,HS92,2012,16.914,87.885,14.865
+Tyres,HS92,2013,17.945,86.144,15.459
+Tyres,HS92,2014,20.351,85.221,17.343
+Tyres,HS92,2015,19.165,75.614,14.491
+Tyres,HS92,2016,18.382,73.124,13.441
+Tyres,HS92,2017,18.353,78.413,14.391
+Tyres,HS92,2018,18.547,82.722,15.343
+Tyres,HS92,2019,18.096,82.303,14.894
+Tyres,HS92,2020,18.545,72.938,13.526
+Tyres,HS92,2021,19.225,88.803,17.073
+Tyres,HS92,2022,20.42,99.201,20.257
+Tyres,HS92,2023,20.705,98.873,20.471
+Tyres,HS92,2024,22.847,100.435,22.947
+Plastics,HS92,1995,3.563,167.955,5.985
+Plastics,HS92,1996,3.802,167.26,6.36
+Plastics,HS92,1997,4.153,176.76,7.34
+Plastics,HS92,1998,4.353,177.87,7.742
+Plastics,HS92,1999,4.795,182.199,8.737
+Plastics,HS92,2000,5.371,203.207,10.914
+Plastics,HS92,2001,5.66,198.748,11.25
+Plastics,HS92,2002,6.242,215.333,13.442
+Plastics,HS92,2003,6.322,251.461,15.897
+Plastics,HS92,2004,6.306,305.175,19.245
+Plastics,HS92,2005,6.997,348.996,24.418
+Plastics,HS92,2006,7.47,394.147,29.442
+Plastics,HS92,2007,7.957,453.033,36.05
+Plastics,HS92,2008,8.454,489.787,41.406
+Plastics,HS92,2009,8.864,398.257,35.301
+Plastics,HS92,2010,9.238,491.72,45.425
+Plastics,HS92,2011,9.539,567.203,54.106
+Plastics,HS92,2012,10.652,556.092,59.236
+Plastics,HS92,2013,11.007,586.882,64.598
+Plastics,HS92,2014,11.522,611.981,70.51
+Plastics,HS92,2015,12.318,554.509,68.303
+Plastics,HS92,2016,12.407,549.134,68.129
+Plastics,HS92,2017,12.787,602.671,77.062
+Plastics,HS92,2018,13.142,660.839,86.844
+Plastics,HS92,2019,14.027,633.46,88.857
+Plastics,HS92,2020,15.501,609.042,94.406
+Plastics,HS92,2021,15.657,789.387,123.596
+Plastics,HS92,2022,17.228,872.045,150.234
+Plastics,HS92,2023,16.401,756.243,124.029
+Plastics,HS92,2024,18.007,770.681,138.779
+Organic chemicals,HS92,1995,2.756,139.532,3.845
+Organic chemicals,HS92,1996,2.98,138.418,4.125
+Organic chemicals,HS92,1997,2.99,145.229,4.342
+Organic chemicals,HS92,1998,2.899,145.73,4.225
+Organic chemicals,HS92,1999,2.9,153.905,4.464
+Organic chemicals,HS92,2000,2.72,175.166,4.764
+Organic chemicals,HS92,2001,2.939,175.405,5.155
+Organic chemicals,HS92,2002,3.266,184.25,6.018
+Organic chemicals,HS92,2003,3.601,216.791,7.806
+Organic chemicals,HS92,2004,3.775,268.472,10.136
+Organic chemicals,HS92,2005,4.302,299.47,12.884
+Organic chemicals,HS92,2006,5.046,320.716,16.183
+Organic chemicals,HS92,2007,5.652,376.503,21.279
+Organic chemicals,HS92,2008,7.62,402.548,30.675
+Organic chemicals,HS92,2009,7.702,339.971,26.183
+Organic chemicals,HS92,2010,8.439,389.282,32.85
+Organic chemicals,HS92,2011,8.541,467.868,39.962
+Organic chemicals,HS92,2012,9.234,456.297,42.136
+Organic chemicals,HS92,2013,9.577,463.938,44.432
+Organic chemicals,HS92,2014,10.572,451.849,47.77
+Organic chemicals,HS92,2015,12.175,377.869,46.005
+Organic chemicals,HS92,2016,12.204,371.221,45.302
+Organic chemicals,HS92,2017,12.838,410.6,52.711
+Organic chemicals,HS92,2018,13.543,473.484,64.123
+Organic chemicals,HS92,2019,13.865,439.322,60.91
+Organic chemicals,HS92,2020,15.114,403.751,61.023
+Organic chemicals,HS92,2021,17.308,501.838,86.86
+Organic chemicals,HS92,2022,21.048,564.279,118.771
+Organic chemicals,HS92,2023,19.158,506.875,97.106
+Organic chemicals,HS92,2024,20.615,491.522,101.325
+Air conditioners,HS92,1995,1.97,11.725,0.231
+Air conditioners,HS92,1996,2.18,12.825,0.28
+Air conditioners,HS92,1997,2.734,12.135,0.332
+Air conditioners,HS92,1998,3.849,12.213,0.47
+Air conditioners,HS92,1999,5.262,13.419,0.706
+Air conditioners,HS92,2000,7.036,15.133,1.065
+Air conditioners,HS92,2001,9.131,14.948,1.365
+Air conditioners,HS92,2002,12.192,15.904,1.939
+Air conditioners,HS92,2003,15.851,18.558,2.942
+Air conditioners,HS92,2004,20.859,22.721,4.739
+Air conditioners,HS92,2005,21.016,24.286,5.104
+Air conditioners,HS92,2006,23.612,26.884,6.348
+Air conditioners,HS92,2007,25.445,33.705,8.576
+Air conditioners,HS92,2008,26.044,36.226,9.435
+Air conditioners,HS92,2009,26.714,28.271,7.552
+Air conditioners,HS92,2010,29.577,34.786,10.289
+Air conditioners,HS92,2011,32.145,40.763,13.103
+Air conditioners,HS92,2012,32.864,40.536,13.322
+Air conditioners,HS92,2013,32.477,42.146,13.688
+Air conditioners,HS92,2014,31.814,42.874,13.64
+Air conditioners,HS92,2015,32.081,41.142,13.199
+Air conditioners,HS92,2016,32.819,42.685,14.009
+Air conditioners,HS92,2017,34.352,44.565,15.309
+Air conditioners,HS92,2018,35.202,49.346,17.371
+Air conditioners,HS92,2019,34.822,50.002,17.412
+Air conditioners,HS92,2020,35.95,48.599,17.471
+Air conditioners,HS92,2021,36.445,57.634,21.005
+Air conditioners,HS92,2022,35.831,64.18,22.997
+Air conditioners,HS92,2023,34.643,64.545,22.36
+Air conditioners,HS92,2024,39.383,68.011,26.785
+Motorcycles,HS92,1995,0.668,7.883,0.053
+Motorcycles,HS92,1996,0.517,8.121,0.042
+Motorcycles,HS92,1997,0.818,8.201,0.067
+Motorcycles,HS92,1998,0.874,9.13,0.08
+Motorcycles,HS92,1999,1.239,9.509,0.118
+Motorcycles,HS92,2000,6.952,10.929,0.76
+Motorcycles,HS92,2001,6.711,10.495,0.704
+Motorcycles,HS92,2002,5.501,10.962,0.603
+Motorcycles,HS92,2003,9.628,12.589,1.212
+Motorcycles,HS92,2004,12.041,14.849,1.788
+Motorcycles,HS92,2005,13.011,17.081,2.223
+Motorcycles,HS92,2006,15.344,18.899,2.9
+Motorcycles,HS92,2007,15.259,21.403,3.266
+Motorcycles,HS92,2008,18.123,22.505,4.079
+Motorcycles,HS92,2009,16.958,16.014,2.716
+Motorcycles,HS92,2010,22.129,15.795,3.495
+Motorcycles,HS92,2011,23.52,18.206,4.282
+Motorcycles,HS92,2012,25.776,18.755,4.834
+Motorcycles,HS92,2013,22.609,18.73,4.235
+Motorcycles,HS92,2014,22.99,19.568,4.499
+Motorcycles,HS92,2015,22.689,18.618,4.224
+Motorcycles,HS92,2016,21.6,19.536,4.22
+Motorcycles,HS92,2017,23.308,22.648,5.279
+Motorcycles,HS92,2018,24.197,26.053,6.304
+Motorcycles,HS92,2019,22.574,27.284,6.159
+Motorcycles,HS92,2020,24.559,27.966,6.868
+Motorcycles,HS92,2021,25.197,35.891,9.043
+Motorcycles,HS92,2022,25.764,38.986,10.045
+Motorcycles,HS92,2023,23.362,37.966,8.87
+Motorcycles,HS92,2024,28.63,37.124,10.628
+Furniture,HS92,1995,4.849,41.528,2.014
+Furniture,HS92,1996,5.435,44.758,2.432
+Furniture,HS92,1997,6.703,47.541,3.187
+Furniture,HS92,1998,7.807,51.344,4.009
+Furniture,HS92,1999,10.186,56.651,5.77
+Furniture,HS92,2000,12.241,60.803,7.443
+Furniture,HS92,2001,13.864,60.266,8.355
+Furniture,HS92,2002,17.671,67.744,11.971
+Furniture,HS92,2003,19.753,78.793,15.564
+Furniture,HS92,2004,21.746,91.81,19.965
+Furniture,HS92,2005,22.862,98.176,22.445
+Furniture,HS92,2006,25.164,107.661,27.092
+Furniture,HS92,2007,28.171,127.739,35.985
+Furniture,HS92,2008,28.272,134.579,38.048
+Furniture,HS92,2009,29.608,107.437,31.81
+Furniture,HS92,2010,32.203,123.119,39.648
+Furniture,HS92,2011,30.879,134.184,41.435
+Furniture,HS92,2012,32.673,137.368,44.883
+Furniture,HS92,2013,31.813,142.816,45.434
+Furniture,HS92,2014,31.956,153.099,48.924
+Furniture,HS92,2015,33.572,149.563,50.212
+Furniture,HS92,2016,32.532,149.695,48.7
+Furniture,HS92,2017,32.968,160.955,53.064
+Furniture,HS92,2018,33.285,171.676,57.143
+Furniture,HS92,2019,31.486,168.862,53.167
+Furniture,HS92,2020,31.876,160.975,51.312
+Furniture,HS92,2021,33.995,200.829,68.272
+Furniture,HS92,2022,32.027,200.55,64.229
+Furniture,HS92,2023,28.455,181.507,51.648
+Furniture,HS92,2024,31.826,190.726,60.701
