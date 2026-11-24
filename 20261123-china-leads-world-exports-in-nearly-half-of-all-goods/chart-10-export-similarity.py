@@ -199,7 +199,7 @@ def ends(ax, x, items, gap, size=None, fmt="{:.0f}", dx=14):
                     fontsize=size or S_VALUE, va="center", annotation_clip=False)
 NAME, DATA = "chart-10-export-similarity", "chart-10-export-similarity"
 # Export similarity index with China: the sum over all HS six-digit products of the smaller of the two economies' export shares.
-# 0 means no product in common; 100 means identical export baskets.
+# 0 means no product in common; 100 means identical export baskets. See also de Soyres and co-authors (FEDS Notes, 29 May 2026).
 D = {r["iso"]: r for r in rows(DATA)}; X = list(range(1995, 2025))
 PICK = [("VNM", GOLD), ("DEU", RED), ("KOR", SKY), ("JPN", NAVY), ("USA", "#7A7A7A"), ("PAK", "#9C6B3F"), ("BGD", "#2E8B57")]
 def plot(fig):
@@ -209,4 +209,4 @@ def plot(fig):
     ends(ax, X[-1], it, 2.6, size=S_LABEL)
     ax.set_xlim(1995, 2024.3); ax.set_ylim(0, 58); ax.set_yticks([0, 10, 20, 30, 40, 50]); ax.set_xticks([1995, 2001, 2008, 2018, 2024])
 compose(plot, "China's exports look like Germany's", "Export similarity with China, index from 0 to 100",
-        SRC + "\nNote: Similarity = 100 x the sum, across about 5,000 products, of the smaller of the product's share in each economy's exports. 0 means no product in common; 100 means identical export baskets.\n" + READ, os.path.join(HERE, NAME + ".png"))
+        SRC + "\nNote: Export similarity index of Finger and Kreinin (1979) = 100 x the sum, across about 5,000 products, of the smaller of the product's share in each economy's exports. 0 means no product in common; 100 means identical export baskets. See also de Soyres and co-authors (FEDS Notes, 29 May 2026).\n" + READ, os.path.join(HERE, NAME + ".png"))

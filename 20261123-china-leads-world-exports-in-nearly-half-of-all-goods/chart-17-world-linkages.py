@@ -210,4 +210,4 @@ def plot(fig):
     lab(ax, 1996, 11.5, "Numbers show the gap\nin percentage points", GREY_TXT, bold=False, size=S_TICK)
     ax.set_xlim(1995, 2024.3); ax.set_ylim(0, 18.5); ax.set_yticks([0, 5, 10, 15]); ax.set_xticks([1995, 2001, 2008, 2018, 2024])
 compose(plot, "A bigger supplier than customer", "China's share of the rest of the world's goods trade, percent",
-        SRC + "\n" + READ, os.path.join(HERE, NAME + ".png"))
+        SRC + "\nNote: For China's shares of world exports and imports, see de Soyres and co-authors (FEDS Notes, 29 May 2026).\n" + READ, os.path.join(HERE, NAME + ".png"))

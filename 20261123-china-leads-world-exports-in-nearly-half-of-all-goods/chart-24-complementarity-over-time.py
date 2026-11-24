@@ -209,4 +209,4 @@ def plot(fig):
     panel(fig.add_axes([0.07, 0.56, 0.68, 0.42]), [("DEU", RED), ("JPN", NAVY), ("KOR", SKY), ("TWN", GOLD)], "Industrial exporters", 4.6)
     panel(fig.add_axes([0.07, 0.07, 0.68, 0.42]), [("BRA", RED), ("KAZ", NAVY), ("SAU", SKY), ("RUS", GOLD)], "Commodity exporters", 4.6)
 compose(plot, "Germany fits less, Brazil fits more", "Trade complementarity with China's imports, index from 0 to 100",
-        SRC + "\nNote: Complementarity = 100 x (1 minus half the sum, across about 5,000 products, of the gap between the product's share in the economy's exports and in China's imports). 100 means a perfect match.\n" + READ, os.path.join(HERE, NAME + ".png"))
+        SRC + "\nNote: Trade complementarity index of Michaely (1996) = 100 x (1 minus half the sum, across about 5,000 products, of the gap between the product's share in the economy's exports and in China's imports). 100 means a perfect match.\n" + READ, os.path.join(HERE, NAME + ".png"))

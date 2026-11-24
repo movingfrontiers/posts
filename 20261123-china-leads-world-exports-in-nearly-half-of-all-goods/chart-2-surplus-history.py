@@ -211,4 +211,4 @@ def plot(fig):
     ax.annotate("Germany's peak\n0.5 in 2007", (2007, 0.48), xytext=(1996, 0.80), color=SKY, fontfamily=CALIBRI, fontweight="bold", fontsize=S_TICK * 0.9, ha="center", arrowprops=dict(arrowstyle="-", color=SKY, lw=2))
     ax.set_xlim(1970, 2025.4); ax.set_ylim(-0.27, 1.3); ax.set_yticks([0, 0.4, 0.8, 1.2]); ax.set_xticks([1970, 1980, 1990, 2000, 2010, 2020]); ax.spines["bottom"].set_visible(False)
 compose(plot, "No surplus has been this large", "Goods trade balance, percent of the rest of the world's GDP",
-        "Source: World Bank, World Development Indicators.\n" + READ, os.path.join(HERE, NAME + ".png"))
+        "Source: World Bank, World Development Indicators.\nNote: The comparison with Germany and Japan relative to the rest of the world's GDP follows de Soyres and co-authors (FEDS Notes, 29 May 2026).\n" + READ, os.path.join(HERE, NAME + ".png"))
